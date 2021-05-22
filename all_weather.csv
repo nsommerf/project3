@@ -1,0 +1,828 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Chicago, IL, United States",1/1/2019,35.5,26.7,30.2,20,,0.29,0,0,13.6,281.33,19.7,8,92.6,85.7,"Rain, Overcast"
+"Chicago, IL, United States",1/2/2019,31.1,27.5,29.3,17.1,,0,0,0,16.2,215.5,25.3,7.5,88,82.67,Overcast
+"Chicago, IL, United States",1/3/2019,39.6,25,31.9,14.7,,0,0,0,14.6,220.88,26.4,9.7,14.9,75.29,Clear
+"Chicago, IL, United States",1/4/2019,49.5,31.9,38.4,23.7,,0,0,0,11.3,247.21,19.7,9.9,13.4,68.89,Clear
+"Chicago, IL, United States",1/5/2019,53.1,31.6,40.8,25.5,,0,0,0,14.2,261.75,22.2,9.9,27.3,75.09,Partially cloudy
+"Chicago, IL, United States",1/6/2019,40.5,35.7,38.8,29.4,,0,0,0,17.4,85.13,27.9,9.9,71.2,73.63,Partially cloudy
+"Chicago, IL, United States",1/7/2019,54.2,41.1,46.2,32.3,,0.39,0,0,22.2,194.75,33.7,8.6,79.1,82.93,"Rain, Overcast"
+"Chicago, IL, United States",1/8/2019,46.2,26.8,39.7,14.1,,0,0,0,26.4,261.33,43.9,8.3,75.8,70.72,Overcast
+"Chicago, IL, United States",1/9/2019,25.9,17.5,20.7,4.3,,0,0,0,20.9,310.83,32.4,9.7,75.9,57.29,Overcast
+"Chicago, IL, United States",1/10/2019,25,15,20.1,2.6,,0,0,0,13.6,224.29,18.3,9.9,65.8,65.49,Partially cloudy
+"Chicago, IL, United States",1/11/2019,30.8,22,27.3,17.6,,0,0,0,9.5,159.5,,9.4,85.9,71.24,Overcast
+"Chicago, IL, United States",1/12/2019,31.1,29.8,30.5,18.9,,0.08,2.21,2.21,18.3,91.17,29.7,4.7,92.3,80.9,"Snow, Overcast"
+"Chicago, IL, United States",1/13/2019,31.7,27.7,29.5,17.6,,0,1.33,3.54,15.8,81.29,25.3,8.4,84.7,74.66,"Snow, Overcast"
+"Chicago, IL, United States",1/14/2019,28,22.6,25.4,13,,0,0,2.71,13,269.5,20.8,8.3,89.5,80.37,Overcast
+"Chicago, IL, United States",1/15/2019,32,25,27.6,14.4,,0,0,2.1,17.2,246.21,29.6,7.1,96.4,84.55,Overcast
+"Chicago, IL, United States",1/16/2019,34.2,28.8,31.9,20.1,,0,0,1.97,13.1,143.92,17.2,9.2,93.8,70.38,Overcast
+"Chicago, IL, United States",1/17/2019,34.9,29.4,32,22.1,,0,0,1.71,8.9,160.67,,7.3,91.9,78.5,Overcast
+"Chicago, IL, United States",1/18/2019,31.9,28.5,30.1,17.1,,0.02,3.44,4.63,17.8,158.5,26.1,8.1,95,75.46,"Snow, Overcast"
+"Chicago, IL, United States",1/19/2019,28.8,14.9,25.3,-2.1,,0.08,3.54,8.17,25,81.17,37,4.2,87.6,83.89,"Snow, Overcast"
+"Chicago, IL, United States",1/20/2019,16,6.4,11.3,-8.9,,0,0.89,9.06,17.9,335.13,26.4,9.2,39.3,61.93,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/21/2019,15.8,6.7,11.4,-7.6,,0,0,7.54,14.2,162.38,25.3,9,72.6,60.38,Partially cloudy
+"Chicago, IL, United States",1/22/2019,34.5,13.2,24.8,-0.8,,0.11,0,6.75,15.1,176.04,29.9,6.2,88.9,75.32,"Rain, Overcast"
+"Chicago, IL, United States",1/23/2019,34.5,20.7,27.7,8.6,,0.2,0,5.32,14.6,262.25,23.8,5.3,92.5,88.55,"Rain, Overcast"
+"Chicago, IL, United States",1/24/2019,22.1,3.8,14.8,-16.7,,0,0,4.6,20.7,261.42,33.2,6.6,58.5,78.84,Partially cloudy
+"Chicago, IL, United States",1/25/2019,6.2,-4.5,1.5,-24.7,,0.01,0.49,4.82,15.1,268.38,25.5,8.4,52.1,69.02,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/26/2019,12.4,-5.1,5.1,-17,,0.03,1.03,5.85,12.3,258.83,18,7.7,52.8,71.17,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/27/2019,10.8,-1.8,4.8,-15.9,,0,2.04,7.88,12.2,257.63,20.8,9.8,43.8,65.08,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/28/2019,34.3,8.8,20.3,-9.3,,0.29,2.99,10.88,20.8,221.13,30.7,3.7,86.6,82.91,"Snow, Overcast"
+"Chicago, IL, United States",1/29/2019,10.6,-7.3,2.9,-30,,0,0.15,11.02,19.2,267.17,35.8,8.5,57.8,65.82,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/30/2019,-8.5,-21.4,-16,-50.5,,0,0,10.24,20.7,267.29,32,9.9,19.8,57.84,Clear
+"Chicago, IL, United States",1/31/2019,0.9,-19.5,-10,-38.6,,0.04,0.74,10.58,12.5,205.88,19.2,7.5,51.9,65.09,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/1/2019,20.3,1.8,12.2,-6.8,,0,0.44,11.02,10.2,134.29,19.7,8.1,66.5,74.71,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/2/2019,40.7,15,31.3,3.7,,0,0,10.76,13.6,203.29,26.4,5.8,82.5,86.55,Overcast
+"Chicago, IL, United States",2/3/2019,46.4,37.9,43.4,30.7,,0,0,7.22,13.1,200.88,26.4,7.4,90.6,93.25,Overcast
+"Chicago, IL, United States",2/4/2019,51.2,31.9,44.6,22.8,,0.03,0,2.89,14.9,229.5,27.7,8,90.8,88.62,"Rain, Overcast"
+"Chicago, IL, United States",2/5/2019,33,26.3,30,16.4,,0.25,0,0,14,121.46,24.2,9.1,96.2,80.08,"Rain, Overcast"
+"Chicago, IL, United States",2/6/2019,37.1,33.3,34.5,25.3,,0.05,0,0,13,133.04,18.3,4.7,90.9,93.07,"Rain, Overcast"
+"Chicago, IL, United States",2/7/2019,44.8,12,32.5,-8.6,,0.47,0,0,28.5,160.25,49.5,4.1,91.1,89.81,"Rain, Overcast"
+"Chicago, IL, United States",2/8/2019,14.3,5.6,9.7,-15.2,,0,0,0,25.3,271.42,48.4,9,57.5,62.44,Partially cloudy
+"Chicago, IL, United States",2/9/2019,24.9,6.6,15.7,-6.8,,0,0,0,9.8,148.96,,9.9,39.1,64.11,Partially cloudy
+"Chicago, IL, United States",2/10/2019,28.8,23,26,13.7,,0.04,0.25,0.25,9.9,117.21,17.2,6.9,85.7,74.54,"Snow, Overcast"
+"Chicago, IL, United States",2/11/2019,31.9,28.6,30.1,18.2,,0.13,0.42,0.67,19.3,65.04,29.5,5.7,98.3,85.75,"Snow, Overcast"
+"Chicago, IL, United States",2/12/2019,32.8,21.8,30.4,6.2,,0.32,0.74,1.39,21.5,183.58,37.3,2.8,94,89.85,"Snow, Overcast"
+"Chicago, IL, United States",2/13/2019,27.9,12.8,20.2,-3.9,,0,0.44,1.83,22.7,245.75,39.3,8.6,59.8,76.18,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/14/2019,45.8,29,39.8,21,,0,0,1.06,18.1,207.25,28.9,9.9,71.4,70.41,Partially cloudy
+"Chicago, IL, United States",2/15/2019,33,11.1,18.4,-5.8,,0,0,0.13,20.4,289.17,34.3,9.4,57.8,66.8,Partially cloudy
+"Chicago, IL, United States",2/16/2019,29.7,16.5,23.1,6,,0,0,0,14.3,195.13,23.1,9.9,94.8,67.62,Overcast
+"Chicago, IL, United States",2/17/2019,28.5,25.3,26.7,13.9,,0.1,1.97,1.97,14.9,74.04,25.2,5.7,89.3,82.05,"Snow, Overcast"
+"Chicago, IL, United States",2/18/2019,29.6,21.3,25.7,11.8,,0.05,1.18,3.15,12.2,216.71,,6.7,74.2,76.24,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/19/2019,32.4,13.9,24.6,12.7,,0,0,3.13,11.1,140.38,,9.9,67.9,68.08,Partially cloudy
+"Chicago, IL, United States",2/20/2019,36.7,28.9,32.7,17.6,,0.06,0,2.62,17.6,158.5,30.6,6.2,94.2,84.1,"Rain, Overcast"
+"Chicago, IL, United States",2/21/2019,34.4,26.4,30.3,16.6,,0,0.49,1.2,17.8,266.67,32.8,9.7,61.2,62.31,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/22/2019,38.7,22.6,31,14.8,,0,0,0.66,10.9,104.21,18.3,9.2,48.1,67.89,Partially cloudy
+"Chicago, IL, United States",2/23/2019,48.6,34.8,37.5,26.6,,0.48,0,0,15.7,103.25,33.2,4.3,91.9,84.69,"Rain, Overcast"
+"Chicago, IL, United States",2/24/2019,47.5,14.4,30.6,-4,,0.04,0,0,35,257.54,53.6,9.8,69,72.53,"Rain, Partially cloudy"
+"Chicago, IL, United States",2/25/2019,20.7,8.2,15.1,-10,,0,0,0,21.4,301.25,40.8,9.9,53.6,48.29,Partially cloudy
+"Chicago, IL, United States",2/26/2019,24.2,16.8,21,4.1,,0,0,0,15.8,92.04,23,9,86.6,65.8,Overcast
+"Chicago, IL, United States",2/27/2019,30.3,17.1,25.1,4.5,,0,0,0,16.1,237.67,25.3,9,79.5,67.29,Overcast
+"Chicago, IL, United States",2/28/2019,27.5,13.1,20.7,2.2,,0,0,0,11.4,197.21,,9.9,55.4,62.84,Partially cloudy
+"Chicago, IL, United States",3/1/2019,33.2,24.4,29.3,18.6,,0,0,0,9,103.67,,9.9,80.1,65.84,Overcast
+"Chicago, IL, United States",3/2/2019,33.5,27.7,29.8,17.9,,0,0,0,13.9,218.04,22.9,8.6,84.8,70.98,Overcast
+"Chicago, IL, United States",3/3/2019,27.2,7.5,19.6,-8.8,,0,0,0,14.7,324.71,27.7,9.9,56.7,54.02,Partially cloudy
+"Chicago, IL, United States",3/4/2019,13.5,-2.2,5.9,-21.4,,0,0,0,18.2,272.13,29.9,9.9,39.5,56.24,Partially cloudy
+"Chicago, IL, United States",3/5/2019,20.4,8.8,14,-9.8,,0,0,0,21.2,277.46,30.3,8.8,68.8,55.57,Partially cloudy
+"Chicago, IL, United States",3/6/2019,30.4,9.9,20.5,-3.3,,0,0,0,19.2,264.75,30.2,9.9,38.1,53.03,Partially cloudy
+"Chicago, IL, United States",3/7/2019,27.7,16.1,23,7.5,,0,0,0,11.9,161.96,23,9.9,63.2,61.21,Partially cloudy
+"Chicago, IL, United States",3/8/2019,38.8,22.8,30.8,17.7,,0,0,0,8.6,92.42,,7.9,80.6,73.66,Overcast
+"Chicago, IL, United States",3/9/2019,43,28.7,36.4,22.2,,0.45,0,0,24.8,121.75,39.8,6.8,86.5,82.95,"Rain, Overcast"
+"Chicago, IL, United States",3/10/2019,38.7,30.6,35.5,20.8,,0,0,0,27,259.5,47.3,9.9,71.1,73.46,Partially cloudy
+"Chicago, IL, United States",3/11/2019,41.6,27.9,33.3,19.3,,0,0,0,14.5,278.54,25.1,9.9,36.8,55.96,Partially cloudy
+"Chicago, IL, United States",3/12/2019,48.3,25.7,38.4,20.5,,0,0,0,14.6,170.5,28.9,9.8,38.5,59.91,Partially cloudy
+"Chicago, IL, United States",3/13/2019,59.9,40.8,49.6,32.5,,0.43,0,0,17.1,170.75,31,8.6,77.2,74.94,"Rain, Overcast"
+"Chicago, IL, United States",3/14/2019,62.7,40.7,52.5,30.6,,0.37,0,0,26.4,201.63,47.2,9.4,83,78.64,"Rain, Overcast"
+"Chicago, IL, United States",3/15/2019,40.5,33.9,37.4,25.5,,0,0,0,22.6,269.13,38.4,8.7,78.4,76.05,Overcast
+"Chicago, IL, United States",3/16/2019,42,28.8,34.7,20.3,,0,0,0,13.2,257.79,28.9,9.9,26,57.32,Partially cloudy
+"Chicago, IL, United States",3/17/2019,44.2,29.5,36.2,25.1,,0,0,0,15.4,220.58,29.9,9.9,56.8,58.61,Partially cloudy
+"Chicago, IL, United States",3/18/2019,42.9,28.2,36.2,21.9,,0,0,0,13.7,278.46,20.4,9.6,53.2,62.82,Partially cloudy
+"Chicago, IL, United States",3/19/2019,49.7,30.8,41,25.4,,0,0,0,12.9,230.88,20.1,9.9,49.5,53.94,Partially cloudy
+"Chicago, IL, United States",3/20/2019,44.8,39.8,42.1,32.6,,0.1,0,0,13.5,215.54,28.9,7.4,82.9,79.17,"Rain, Overcast"
+"Chicago, IL, United States",3/21/2019,44.8,37,40.2,27.9,,0,0,0,15.1,279.58,25.4,8,73.6,78.17,Partially cloudy
+"Chicago, IL, United States",3/22/2019,44.7,32.4,38.6,26.8,,0,0,0,19.4,152.13,29,9.9,15.6,64.71,Clear
+"Chicago, IL, United States",3/23/2019,52.2,26.5,40,34.3,,0,0,0,8.9,166.46,,9.9,24.6,58.99,Clear
+"Chicago, IL, United States",3/24/2019,50.3,35.5,43.9,25.2,,0.1,0,0,18.2,117.5,28.9,9.4,84,66.93,"Rain, Overcast"
+"Chicago, IL, United States",3/25/2019,40.9,30.4,36.1,22.5,,0,0,0,22.2,53.83,34,9.7,30.5,57.81,Partially cloudy
+"Chicago, IL, United States",3/26/2019,45.7,27.2,36.7,21.9,,0,0,0,9,131,,9.9,22.9,42.08,Clear
+"Chicago, IL, United States",3/27/2019,58,30.3,45.7,24.1,,0.06,0,0,17.8,182,32.2,9.8,57.7,41.91,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/28/2019,64.6,45,52.2,39.8,,0.01,0,0,16.4,157.88,25.3,9.8,79.8,60.49,"Rain, Overcast"
+"Chicago, IL, United States",3/29/2019,55.5,39,46.2,31.7,,0.27,0,0,11.8,61.04,,9.1,79.5,61.78,"Rain, Overcast"
+"Chicago, IL, United States",3/30/2019,43.7,31.4,38.3,21.3,,0.26,0,0,21.6,185.58,33,8.8,73.7,73.29,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/31/2019,38.8,24.5,31.4,12.7,,0,0,0,16.8,252.29,28.4,9.7,36.3,45.52,Partially cloudy
+"Chicago, IL, United States",4/1/2019,48.2,27.3,38.8,21.3,,0,0,0,21.4,200.04,34,9.9,51.2,53.54,Partially cloudy
+"Chicago, IL, United States",4/2/2019,55.4,38.4,44.9,31.2,,0,0,0,22,232.42,32.5,9.8,52.8,58.71,Partially cloudy
+"Chicago, IL, United States",4/3/2019,58.4,37.7,48.6,33.3,,0,0,0,16.4,269.58,27.9,9.9,44.8,49.12,Partially cloudy
+"Chicago, IL, United States",4/4/2019,48.6,39.5,44.1,32.8,,0.29,0,0,14.9,98.25,24.2,7.8,85.9,84.04,"Rain, Overcast"
+"Chicago, IL, United States",4/5/2019,55.5,40.3,46.7,34.7,,0,0,0,9.3,125.21,,7.3,90.8,78.34,Overcast
+"Chicago, IL, United States",4/6/2019,64,41.4,52.7,42.5,,0,0,0,12.2,102.13,,6.5,59.7,76.51,Partially cloudy
+"Chicago, IL, United States",4/7/2019,68.9,52.5,59.9,,,0.18,0,0,19.1,193.54,33.4,9.7,70.8,73.42,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/8/2019,73.2,52.9,63.5,,,0,0,0,13.6,255.88,24.2,9.9,55.6,55.11,Partially cloudy
+"Chicago, IL, United States",4/9/2019,65.6,43,57.4,34.7,,0,0,0,25.1,277.5,38.1,9.9,28.7,43.67,Partially cloudy
+"Chicago, IL, United States",4/10/2019,41.2,35.5,38.5,25.4,,0.08,0,0,23.8,48.71,37.3,9.6,72.8,77.8,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/11/2019,58.5,38.4,47.4,28.3,,0.25,0,0,20.7,103.92,35.9,9.3,67.3,70.01,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/12/2019,52,39.6,47.5,33.5,,0.17,0,0,28.1,230.21,44.1,9.4,52.4,54.22,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/13/2019,52.7,36.5,43.8,28.7,,0,0,0,16.6,215.63,30.3,9.9,44.2,48.13,Partially cloudy
+"Chicago, IL, United States",4/14/2019,39.6,32.9,34.9,21.1,,0.38,0,0,22.6,119.88,34.2,4.3,85.8,84.42,"Rain, Overcast"
+"Chicago, IL, United States",4/15/2019,52.5,31.7,43.3,24.7,,0,1.13,1.13,12.2,241.83,24.2,9.6,52.2,61.67,"Snow, Partially cloudy"
+"Chicago, IL, United States",4/16/2019,72.7,47.4,57.1,43.3,,0,0,0.34,14.6,155.5,23.7,9.9,67.9,62.44,Partially cloudy
+"Chicago, IL, United States",4/17/2019,75.3,46.8,61.6,42.7,,0,0,0,20.7,131.13,36.3,8.5,66.6,65.71,Partially cloudy
+"Chicago, IL, United States",4/18/2019,65.2,44.3,53,37.4,,0.43,0,0,16,239.13,25.5,8.4,80.2,82.16,"Rain, Overcast"
+"Chicago, IL, United States",4/19/2019,49.5,41.2,44.9,31.6,,0,0,0,28.6,15.58,47.4,9.9,58.8,60.39,Partially cloudy
+"Chicago, IL, United States",4/20/2019,64.2,40.7,51.7,33.4,,0,0,0,23.6,75.08,35.5,9.9,14.4,30.43,Clear
+"Chicago, IL, United States",4/21/2019,77.9,45.3,62.9,44.5,,0,0,0,15.1,192.04,28.9,9.9,41.3,29.62,Partially cloudy
+"Chicago, IL, United States",4/22/2019,79.9,59,68.4,,,0.13,0,0,22.1,183,34.3,9.9,57.6,45.56,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/23/2019,66,50.5,55.7,,,0,0,0,16.9,221.52,27.2,9.5,80.4,69.49,Overcast
+"Chicago, IL, United States",4/24/2019,62.4,45,54.5,41,,0,0,0,10.6,104.29,,9.9,72.6,52.65,Partially cloudy
+"Chicago, IL, United States",4/25/2019,65.4,48.5,57,,,0.04,0,0,22.6,80.42,35.4,9.8,57.3,52.36,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/26/2019,63.7,49.7,56.1,44.4,,0.08,0,0,22.7,314.33,37.5,9.7,29.1,48.57,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/27/2019,49.4,32.9,38.1,20.6,,0.75,0,0,22.1,66,32.9,5.6,77.7,80.32,"Rain, Overcast"
+"Chicago, IL, United States",4/28/2019,51,33.1,43.1,25.2,,0,0,0,13.7,124.17,23,9.7,48.2,54.3,Partially cloudy
+"Chicago, IL, United States",4/29/2019,51.6,43.8,47.8,36.8,,1.24,0,0,20.1,175.21,34.4,7.5,85.1,84.83,"Rain, Overcast"
+"Chicago, IL, United States",4/30/2019,47.9,39.4,44.4,32.6,,1.02,0,0,16.6,57.25,25.8,4.6,91.5,93.96,"Rain, Overcast"
+"Chicago, IL, United States",5/1/2019,59.2,44.5,52.1,39,,0.81,0,0,16,162.04,33.1,7.4,88.7,89.18,"Rain, Overcast"
+"Chicago, IL, United States",5/2/2019,48,43,44.6,37.6,,0.41,0,0,12.8,45.13,19.7,4.5,97.9,93.52,"Rain, Overcast"
+"Chicago, IL, United States",5/3/2019,55.3,43.6,48.7,38.1,,0.02,0,0,15.6,58.38,24.4,9.8,63.5,71.1,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/4/2019,61.4,41.7,52.3,38.8,,0,0,0,11.1,136.38,,9.9,40.2,60.03,Partially cloudy
+"Chicago, IL, United States",5/5/2019,73.2,45.7,61.3,45.4,,0,0,0,12.5,211.29,33.3,9.9,32.6,52.54,Partially cloudy
+"Chicago, IL, United States",5/6/2019,68.6,46.6,56.5,41.4,,0.01,0,0,14.5,122.33,23,9.9,67.3,67.54,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/7/2019,49.2,44.4,46.5,37.8,,0.46,0,0,18.4,45.17,25.9,8.6,90.5,77.68,"Rain, Overcast"
+"Chicago, IL, United States",5/8/2019,70.6,46.7,57.1,41.9,,0.18,0,0,17,90.21,30.6,9.7,73.9,65.35,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/9/2019,68.1,49.1,59.1,45,,1.07,0,0,18,215.29,31.6,7.4,84.3,80.59,"Rain, Overcast"
+"Chicago, IL, United States",5/10/2019,54.9,45.4,49.3,40.3,,0,0,0,13.5,202.5,21.9,9.9,57.2,63.28,Partially cloudy
+"Chicago, IL, United States",5/11/2019,52.5,44.9,47.5,38.8,,0.08,0,0,14.1,71.08,16.1,9.9,82.7,69.3,"Rain, Overcast"
+"Chicago, IL, United States",5/12/2019,52.2,43,46.7,37.6,,0.07,0,0,15.2,72.38,23.5,9.9,81.4,71.01,"Rain, Overcast"
+"Chicago, IL, United States",5/13/2019,60,44.3,51.6,40.7,,0,0,0,14,151.46,21.9,9.9,44.7,61.06,Partially cloudy
+"Chicago, IL, United States",5/14/2019,68.6,43.1,57.8,45.1,,0,0,0,12.8,139.08,,9.9,36.5,48.56,Partially cloudy
+"Chicago, IL, United States",5/15/2019,74.8,51.8,65.1,,,0,0,0,7.7,216.71,,9.9,48.2,51.44,Partially cloudy
+"Chicago, IL, United States",5/16/2019,76,59.8,67.5,,,0.12,0,0,14.5,171.46,34.2,9.7,65.1,72.86,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/17/2019,67.5,45.9,52.1,40,,0.29,0,0,20.1,61.83,35.7,9.6,77.1,75.34,"Rain, Overcast"
+"Chicago, IL, United States",5/18/2019,81.7,44.9,60.8,41.1,82.3,0.39,0,0,12.6,127.88,38.3,9.3,63,78.18,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/19/2019,73.5,50.9,64.7,,,0.29,0,0,27,210.29,42.2,9.1,69.2,74.87,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/20/2019,56,47.8,51,42.5,,0,0,0,16.3,197.58,25.3,9.9,84.4,64.84,Overcast
+"Chicago, IL, United States",5/21/2019,55.5,46.5,50.6,41.2,,0.07,0,0,21.3,89.92,34.2,9.7,82.1,71.63,"Rain, Overcast"
+"Chicago, IL, United States",5/22/2019,82.2,50.8,67.9,,81.4,0.89,0,0,21.4,168.75,36.3,9,70.2,69.28,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/23/2019,75.4,63.9,70,,,0.06,0,0,19.3,253.79,33.5,9.9,35.5,57.9,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/24/2019,74.3,56,64.1,,,0.19,0,0,14.1,123.17,31.1,9.7,65.6,71.28,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/25/2019,82.2,71.9,76.6,,83.7,0,0,0,16.3,241.29,33.3,9.9,58.5,66.46,Partially cloudy
+"Chicago, IL, United States",5/26/2019,73.6,55.3,66.8,,,0.01,0,0,11.3,151.38,18.3,9.9,60.7,66.37,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/27/2019,74.3,54.6,64.3,,,1.16,0,0,13.6,101.83,29.4,8.7,62.7,77.7,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/28/2019,70.8,52.2,61.6,,,0.61,0,0,23.9,159.79,35.3,9.1,71.5,85.26,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/29/2019,73.1,52.4,61.8,,,0.14,0,0,9.4,167.33,30.5,7.9,72.2,81.72,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/30/2019,77.5,61.4,68.3,,,0.15,0,0,12.7,177.79,21.9,9.4,55.9,70.94,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/31/2019,82,61,72.7,,82.1,0,0,0,16.3,214.08,24.2,9.9,59.5,64.17,Partially cloudy
+"Chicago, IL, United States",6/1/2019,78.4,54.5,67.2,,,0.1,0,0,19,183.54,37.1,9.8,65.3,74.43,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/2/2019,69.3,53.3,61,,,0,0,0,15.5,175.71,27.6,9.9,32,53.39,Partially cloudy
+"Chicago, IL, United States",6/3/2019,66.3,50.5,58.2,,,0,0,0,10.7,77.29,,9.9,58.1,50.6,Partially cloudy
+"Chicago, IL, United States",6/4/2019,82.7,58.6,70.3,,82.7,0.22,0,0,17.5,200.75,29,9.5,64.7,61.99,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/5/2019,83.5,60.3,72.1,,84.5,0.38,0,0,14.6,164.17,31.1,9,58.2,76.35,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/6/2019,74.1,56.7,65.3,,,0,0,0,9.6,60.04,19.7,7.7,64.6,78.4,Partially cloudy
+"Chicago, IL, United States",6/7/2019,79.3,56.6,67.8,,,0,0,0,15.5,40.58,22.4,9.9,29.9,67.98,Partially cloudy
+"Chicago, IL, United States",6/8/2019,76.3,60.5,69.4,,,0,0,0,15,63.54,23.7,9.9,47.9,58.05,Partially cloudy
+"Chicago, IL, United States",6/9/2019,72.6,65.6,68.3,,,0.02,0,0,10.1,60.71,,8.6,85,78.49,"Rain, Overcast"
+"Chicago, IL, United States",6/10/2019,74.6,61.6,67.7,,,0,0,0,20.1,275.5,33.7,9.4,39.9,54.11,Partially cloudy
+"Chicago, IL, United States",6/11/2019,82,57.4,70.9,,80.1,0,0,0,12.7,188.54,21.9,9.9,39.2,39.69,Partially cloudy
+"Chicago, IL, United States",6/12/2019,72.5,57.3,65.6,,,0.6,0,0,13.2,213.5,40.3,9.4,69.2,63.19,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/13/2019,67.9,52.6,59.3,,,0.07,0,0,21.2,314.46,33.4,9.9,63.8,60.58,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/14/2019,79.7,52.6,67.1,,,0.05,0,0,21.9,221,37.5,9.9,40.9,50.72,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/15/2019,70.9,56.5,65.5,,,0.15,0,0,14.6,165.71,24.2,7.6,85.4,82.13,"Rain, Overcast"
+"Chicago, IL, United States",6/16/2019,62.4,55.9,57.9,,,0.09,0,0,13.4,96.38,17.2,6.2,95.1,89.66,"Rain, Overcast"
+"Chicago, IL, United States",6/17/2019,67.4,55.8,60.6,,,0,0,0,9,48.38,,8.9,93.4,80.58,Overcast
+"Chicago, IL, United States",6/18/2019,78.8,56.9,66.9,,,0,0,0,8.3,82.67,,7.2,68.5,73.42,Partially cloudy
+"Chicago, IL, United States",6/19/2019,71.7,56.2,64,,,0.2,0,0,13.5,53.71,19.7,8.5,72.5,80.33,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/20/2019,69.7,56.1,61.2,,,0.3,0,0,15.5,182.38,23,7.8,79.4,83.59,"Rain, Overcast"
+"Chicago, IL, United States",6/21/2019,71.5,53.1,63.1,,,0,0,0,13.3,74.46,19.7,9.9,51.9,59.53,Partially cloudy
+"Chicago, IL, United States",6/22/2019,80.1,60.7,71.2,,81.3,0,0,0,19.1,90.83,27.5,9.9,66.4,63.85,Partially cloudy
+"Chicago, IL, United States",6/23/2019,81.8,64.9,73.5,,85.6,0.35,0,0,16.2,134.88,27.7,9.7,64.5,77.55,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/24/2019,78,67.7,72.1,,,0.2,0,0,20.2,226.17,32.2,9.7,65.9,80.86,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/25/2019,84.8,62.4,75.5,,84.5,0.05,0,0,21.7,235.04,41.4,9.9,29.3,61.35,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/26/2019,88.3,69.6,77.9,,89.2,0.15,0,0,10.5,199.96,,9.9,62.4,60.54,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/27/2019,89.5,69.1,77.6,,93.7,0.01,0,0,12,187.25,37.7,9.9,51,69.81,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/28/2019,89.4,73.2,79,,94.4,0.31,0,0,14.2,198.5,27.2,9.7,54,68.45,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/29/2019,85.9,71.1,79,,89.7,0,0,0,11.2,150.96,,9.9,39.9,66.48,Partially cloudy
+"Chicago, IL, United States",6/30/2019,88.8,73,77.6,,93.4,0.24,0,0,20,127.57,54.8,9.9,51.1,70.68,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/1/2019,89.1,69.9,80.5,,95,0,0,0,11.9,265.29,21.9,9.9,41.8,68.38,Partially cloudy
+"Chicago, IL, United States",7/2/2019,92,73.9,82.9,,98.7,0.89,0,0,18.7,217.46,33.3,9.7,52.5,69.14,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/3/2019,84.3,70.9,77.3,,89.9,0.16,0,0,12.2,148,19.7,9.9,58.2,77.56,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/4/2019,90.7,70.7,80.1,,96,0,0,0,13,183.46,20.8,9.1,52.9,71.66,Partially cloudy
+"Chicago, IL, United States",7/5/2019,91.5,75.8,82.9,,97.7,0.03,0,0,11.2,230.29,18.3,9.7,57.7,69.08,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/6/2019,83.4,69.3,76.9,,88.1,0.01,0,0,18.2,72.54,29,9.7,47.5,71.54,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/7/2019,77.5,67.2,71.7,,,0,0,0,16.5,38.88,23,9.9,70,63.03,Partially cloudy
+"Chicago, IL, United States",7/8/2019,81.9,64.1,72.2,,81.8,0,0,0,11.3,86.75,,9.9,39.8,53.73,Partially cloudy
+"Chicago, IL, United States",7/9/2019,88,65.9,77.6,,86.9,0,0,0,11.4,126.88,23,9.7,45.9,57.53,Partially cloudy
+"Chicago, IL, United States",7/10/2019,94.7,76,85.4,,99.3,0,0,0,14.6,245.33,26.1,9.9,42.2,56.57,Partially cloudy
+"Chicago, IL, United States",7/11/2019,80.7,68.5,75.5,,81.9,0,0,0,13.6,141.08,21.9,9.9,27.9,62.61,Partially cloudy
+"Chicago, IL, United States",7/12/2019,87.4,61.6,75.5,,86.7,0,0,0,10.5,235.04,17.6,9.9,7.4,55.28,Clear
+"Chicago, IL, United States",7/13/2019,92.7,72.9,81.6,,97.3,0.11,0,0,15.7,191.13,23.5,9.9,47.6,60.34,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/14/2019,88.7,72.1,80,,91.4,0,0,0,14.5,84.63,,9.9,37.9,59.07,Partially cloudy
+"Chicago, IL, United States",7/15/2019,91.3,74.8,82.4,,93.4,0,0,0,19.6,220.67,32.9,9.9,30.5,58.66,Partially cloudy
+"Chicago, IL, United States",7/16/2019,81.9,71.9,77.4,,86.9,0.12,0,0,10.3,176.79,20.8,9.5,65.4,80.41,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/17/2019,88.1,74.5,81.3,,94.9,0.42,0,0,10.5,143.83,41.4,9.8,59,74.07,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/18/2019,87.9,71.7,79.8,,101,1.25,0,0,21.3,193.58,33.9,8.7,52.7,82.3,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/19/2019,93.5,81.2,87,,109.8,0,0,0,15.9,218.13,26.7,9.9,51.3,73.26,Partially cloudy
+"Chicago, IL, United States",7/20/2019,95.6,75.6,83.8,,108.9,0.14,0,0,19.5,178,37.6,9.9,62.2,71.79,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/21/2019,78.1,71.2,74,,,0.93,0,0,18.5,54.17,25.3,9.8,62.5,75.76,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/22/2019,74.9,66,70.5,,,0,0,0,20.3,74,33.4,9.9,38.7,57.7,Partially cloudy
+"Chicago, IL, United States",7/23/2019,79.9,62.2,71,,,0,0,0,13.9,189.21,21.9,9.9,28.4,59.94,Partially cloudy
+"Chicago, IL, United States",7/24/2019,79.4,62.1,72,,,0,0,0,10,159.5,18.3,9.9,12.1,52.81,Clear
+"Chicago, IL, United States",7/25/2019,84.1,63.7,74.9,,83.2,0,0,0,9,197.08,18.3,9.9,20.9,50.36,Clear
+"Chicago, IL, United States",7/26/2019,84.8,67.9,76.9,,85.2,0,0,0,15.6,184.92,23,9.9,49.8,58.74,Partially cloudy
+"Chicago, IL, United States",7/27/2019,88.8,72.1,80.6,,90.6,0,0,0,18.2,218.92,31.8,9.9,34,57.64,Partially cloudy
+"Chicago, IL, United States",7/28/2019,89.5,73.3,81.8,,91.1,0,0,0,18.1,223.29,27.9,9.9,47.3,59.71,Partially cloudy
+"Chicago, IL, United States",7/29/2019,80.4,73,76.6,,83.5,0.59,0,0,13,221.63,35.5,9.8,53.6,75.71,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/30/2019,77.8,67,72.4,,,0,0,0,12.6,143.25,20.8,9.9,41,68.95,Partially cloudy
+"Chicago, IL, United States",7/31/2019,75.5,63,69.3,,,0,0,0,14.7,109.71,21.9,9.9,29.9,61.86,Partially cloudy
+"Chicago, IL, United States",8/1/2019,79.6,59.6,70.8,,,0,0,0,11.6,163.38,18.3,9.9,19.1,60.17,Clear
+"Chicago, IL, United States",8/2/2019,82.2,63.2,73.8,,82,0,0,0,10.5,127.58,23,9.9,32.9,60.94,Partially cloudy
+"Chicago, IL, United States",8/3/2019,88.1,63.7,77.1,,86.3,0,0,0,9.7,111.63,,9.9,44,55.82,Partially cloudy
+"Chicago, IL, United States",8/4/2019,84.9,73,78.4,,86.9,0,0,0,9.9,64.58,,9.9,46.8,62.98,Partially cloudy
+"Chicago, IL, United States",8/5/2019,90,71.3,80.9,,90.6,0,0,0,14.1,204.25,22.6,9.9,40.4,59.31,Partially cloudy
+"Chicago, IL, United States",8/6/2019,84,69.9,75.4,,85.1,0.19,0,0,13.5,207.08,32.2,9.6,61.6,72.27,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/7/2019,87.5,68.3,78.4,,87.4,0,0,0,14.8,238.83,23.2,9.9,28.8,60.36,Partially cloudy
+"Chicago, IL, United States",8/8/2019,86.8,72,78.9,,85.3,0.05,0,0,19.8,280.71,32.2,9.9,31.5,53,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/9/2019,82.1,62.6,73.2,,80.9,0,0,0,8.8,231.29,19.7,9.9,24.4,53.29,Clear
+"Chicago, IL, United States",8/10/2019,83.5,68.1,75.1,,82.5,0,0,0,11.9,203.17,16.1,9.9,56.6,54.05,Partially cloudy
+"Chicago, IL, United States",8/11/2019,82.6,69.3,75.5,,83.8,0,0,0,13,193.04,23,9.9,65,64.55,Partially cloudy
+"Chicago, IL, United States",8/12/2019,82.8,72.7,76.4,,86.3,0.41,0,0,9.8,174.54,,7.5,71.8,84,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/13/2019,83.7,71.3,75.9,,86.8,0.33,0,0,10.7,174.33,,7.9,61.7,80.75,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/14/2019,80.9,66.5,72.8,,82.9,0.31,0,0,16,201.92,21.9,9.9,54.7,77.72,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/15/2019,77.4,64.5,71.1,,,0,0,0,12.8,183.5,,9.9,44.7,71.3,Partially cloudy
+"Chicago, IL, United States",8/16/2019,83.7,64.6,73.9,,85.8,0.02,0,0,15.7,189.5,28.3,9.9,61,69.66,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/17/2019,77.9,69.1,73.7,,,0.07,0,0,8.9,180.5,,9.8,53.9,82.05,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/18/2019,82.6,69.9,74.9,,85.6,1.14,0,0,18.8,208.92,36.8,9.6,44,79.36,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/19/2019,83.8,70.6,77.5,,88.1,0,0,0,8.7,92.71,,9.9,57.5,74.77,Partially cloudy
+"Chicago, IL, United States",8/20/2019,77.5,70.2,74.2,,,0.23,0,0,11,216.88,26.4,9.1,48.3,87.16,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/21/2019,83.2,65.2,74.5,,87.1,0.01,0,0,13.9,215.13,24.6,9.9,41.1,79.09,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/22/2019,76.4,67.5,72.2,,,0,0,0,16.6,169.67,24.9,9.9,51.5,62.66,Partially cloudy
+"Chicago, IL, United States",8/23/2019,73.6,64.9,69.2,,,0,0,0,15.6,50.79,29.8,9.9,26.8,57.46,Partially cloudy
+"Chicago, IL, United States",8/24/2019,74.1,63.2,69.1,,,0,0,0,14.7,85.67,23.8,9.9,42.3,56.78,Partially cloudy
+"Chicago, IL, United States",8/25/2019,76.9,61.9,70.3,,,0,0,0,14.6,113.04,26.2,9.9,51.6,56.27,Partially cloudy
+"Chicago, IL, United States",8/26/2019,76.9,65.8,71.6,,,0.84,0,0,16.4,165.33,32.2,9.2,78.8,82.7,"Rain, Overcast"
+"Chicago, IL, United States",8/27/2019,79.4,65.7,72.7,,,0,0,0,13.9,255.71,27.6,9.9,48.6,68.29,Partially cloudy
+"Chicago, IL, United States",8/28/2019,75.6,60.6,68.6,,,0,0,0,21.9,256.58,36.5,9.9,21.6,56.46,Clear
+"Chicago, IL, United States",8/29/2019,84.6,59.5,72.7,,85.6,0,0,0,23.7,229.88,36.7,9.9,27.1,64.28,Partially cloudy
+"Chicago, IL, United States",8/30/2019,73.6,62,68.5,,,0,0,0,10.3,194.54,,9.9,53.7,54.15,Partially cloudy
+"Chicago, IL, United States",8/31/2019,74.5,63.5,68.2,,,0.02,0,0,16.2,81.29,23,9.9,66.3,61.1,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/1/2019,71.9,62.2,67.3,,,0.66,0,0,12,109.63,,9.1,74,80.8,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/2/2019,82.9,61.8,72.6,,83.9,0,0,0,8.8,232.5,17.2,8.6,29.1,72.46,Partially cloudy
+"Chicago, IL, United States",9/3/2019,80.9,67.9,73.4,,85.9,0.18,0,0,22.1,218.92,47.2,9.7,50.1,78.02,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/4/2019,71.2,61.5,65.6,,,0,0,0,12,163.92,19.7,9.9,50.3,67.41,Partially cloudy
+"Chicago, IL, United States",9/5/2019,71.9,56.8,64.9,,,0,0,0,10,137.83,,9.9,51.9,64.41,Partially cloudy
+"Chicago, IL, United States",9/6/2019,73.1,65.1,68.4,,,0,0,0,16.8,217.13,27.7,9.9,80.9,71.35,Overcast
+"Chicago, IL, United States",9/7/2019,78.6,57.4,68.1,,,0,0,0,14.3,232.25,23,9.9,47.1,67.54,Partially cloudy
+"Chicago, IL, United States",9/8/2019,67.5,62.7,64.9,,,0.04,0,0,12.1,84.58,,9.9,68,71.27,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/9/2019,76.9,62.6,68.9,,,0.02,0,0,10.2,107.42,,9.9,66.2,77.79,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/10/2019,90,72.7,80.4,,95.6,0,0,0,18.2,205.71,30.2,9.9,65.4,67.4,Partially cloudy
+"Chicago, IL, United States",9/11/2019,89.4,74.5,81.3,,95,0.05,0,0,17.4,219.25,33.8,9.6,55.3,73.2,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/12/2019,79.3,66.8,72.7,,,0.55,0,0,11.1,98.71,33.9,8.7,64.8,84.74,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/13/2019,76.7,63.6,72.2,,,1.08,0,0,21.4,235.71,36.9,9.3,56.1,74.18,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/14/2019,80.5,57.6,69.7,,81.3,0,0,0,12.9,224.29,21.9,9.9,23.3,65.72,Clear
+"Chicago, IL, United States",9/15/2019,77.2,64.3,71.4,,,0.55,0,0,15.2,200.21,25.6,9.3,66.3,80.16,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/16/2019,74.2,66.2,70.5,,,0,0,0,10,113.88,,7.9,71.4,86.31,Partially cloudy
+"Chicago, IL, United States",9/17/2019,77.9,65.7,70.5,,,0,0,0,10.4,91.13,,8.4,76.8,81.39,Overcast
+"Chicago, IL, United States",9/18/2019,82.5,63.9,72.9,,82.9,0,0,0,11.3,153.38,19.7,9.9,29.5,67.48,Partially cloudy
+"Chicago, IL, United States",9/19/2019,82.8,64.6,73.8,,83.1,0,0,0,10.9,165.17,,9.9,41.3,59.29,Partially cloudy
+"Chicago, IL, United States",9/20/2019,84.5,68.8,76.3,,87.4,0.02,0,0,7.7,171.58,,9.6,57.2,71.96,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/21/2019,79.1,72.2,75.2,,,0.28,0,0,17.4,199.58,34.4,9.6,47.8,78.47,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/22/2019,77.6,68.5,72.4,,,0.92,0,0,18.2,213.25,31.1,8.7,74.3,85.27,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/23/2019,73.9,61.2,67.5,,,0.08,0,0,17.5,287.25,26,9.9,36.3,67.33,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/24/2019,79.1,58.6,68.9,,,0,0,0,17,224.21,27,9.9,34.1,64.36,Partially cloudy
+"Chicago, IL, United States",9/25/2019,79,65.5,70.6,,,0,0,0,16.9,244.63,30.4,9.9,66.8,59.93,Partially cloudy
+"Chicago, IL, United States",9/26/2019,71.9,56.7,65.5,,,0,0,0,13.3,275.58,23.9,9.9,39,49.02,Partially cloudy
+"Chicago, IL, United States",9/27/2019,69.8,60.1,65,,,1.31,0,0,18,195,33.3,8.4,67.8,70.3,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/28/2019,67.7,58.2,61.3,,,0.55,0,0,16.2,62.13,28.9,7.1,88,89.07,"Rain, Overcast"
+"Chicago, IL, United States",9/29/2019,68,61.6,64.3,,,0.71,0,0,13.7,88.63,24.2,8.1,81.6,91.53,"Rain, Overcast"
+"Chicago, IL, United States",9/30/2019,85.9,64.6,75.8,,89.9,0,0,0,16.5,168.17,28,7.2,51.5,77.11,Partially cloudy
+"Chicago, IL, United States",10/1/2019,87,72.6,79.7,,93.2,0,0,0,11.9,216.13,24.2,9.9,59.5,69.65,Partially cloudy
+"Chicago, IL, United States",10/2/2019,81.9,59.5,63.7,,84.8,0.22,0,0,13.8,103.13,24.2,5.7,91.1,90.09,"Rain, Overcast"
+"Chicago, IL, United States",10/3/2019,67.4,53.1,61.5,,,0.72,0,0,18.6,276.96,28.2,8.9,71.6,78.84,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/4/2019,58.2,47.7,53.5,43.6,,0,0,0,15.2,169.96,27,9.9,60.1,72.83,Partially cloudy
+"Chicago, IL, United States",10/5/2019,64.4,49.1,56.4,45.3,,0.27,0,0,13.6,149.29,26.2,9.5,60.3,74.46,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/6/2019,67.7,50.9,59.9,,,0,0,0,15.1,259.67,23,9.8,50.4,60.81,Partially cloudy
+"Chicago, IL, United States",10/7/2019,70.6,49.6,59.6,47.7,,0,0,0,14.4,263,24.2,9.9,24.3,57.22,Clear
+"Chicago, IL, United States",10/8/2019,70.6,48.8,59.2,,,0,0,0,8,118.29,,9.9,8,60.5,Clear
+"Chicago, IL, United States",10/9/2019,70.7,52.2,61.1,,,0,0,0,12.6,127.67,19.7,9.9,34.2,57.01,Partially cloudy
+"Chicago, IL, United States",10/10/2019,70.3,55.3,63.9,,,0.03,0,0,12.6,137.88,23,9.7,67.4,71.44,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/11/2019,67.7,40,55,31.2,,0.57,0,0,18.1,222.71,31.6,9.2,82.7,80.84,"Rain, Overcast"
+"Chicago, IL, United States",10/12/2019,55,36.9,45.6,28.5,,0,0,0,23,225.13,37.3,9.9,44.2,49.18,Partially cloudy
+"Chicago, IL, United States",10/13/2019,54,39,46.4,34.2,,0,0,0,20.6,264.29,33.6,9.9,64.3,58.86,Partially cloudy
+"Chicago, IL, United States",10/14/2019,54.7,38.4,46.4,34.1,,0,0,0,12.1,242.83,21.9,9.9,33.8,58.16,Partially cloudy
+"Chicago, IL, United States",10/15/2019,64.1,42.2,52.4,38.8,,0.01,0,0,21,190.83,35.6,9.6,58.7,69.1,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/16/2019,52,43.7,48.1,38.9,,0,0,0,19.9,301.75,35.3,9.9,75.8,62.22,Overcast
+"Chicago, IL, United States",10/17/2019,54.4,42.1,47,38,,0,0,0,10.2,241.08,17.2,9.9,59.8,69.11,Partially cloudy
+"Chicago, IL, United States",10/18/2019,59.9,39.7,49.5,36.5,,0,0,0,12.4,124.42,23,9.9,37.2,67.92,Partially cloudy
+"Chicago, IL, United States",10/19/2019,69.4,45.9,57,41.9,,0,0,0,13.3,183.08,32.2,9.9,40.2,57.17,Partially cloudy
+"Chicago, IL, United States",10/20/2019,60.1,50.4,54.7,,,0,0,0,10.4,199.25,,8.4,67,80.34,Partially cloudy
+"Chicago, IL, United States",10/21/2019,67,51.4,58.5,,,0.08,0,0,24,156.96,41.5,8.5,61.6,73.85,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/22/2019,52.8,47.7,49.7,40.3,,0.04,0,0,22.4,235.5,38.8,9.8,61.3,64.89,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/23/2019,59.4,40.6,49.6,34.9,,0.01,0,0,13.6,211.58,22.7,9.9,41.2,59.03,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/24/2019,50.6,43,46.9,37.7,,0.01,0,0,13.3,219.46,26.4,9.9,57.6,71.33,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/25/2019,49.2,41.9,45.6,41,,0,0,0,7.3,279.29,,9.9,51.6,66.13,Partially cloudy
+"Chicago, IL, United States",10/26/2019,50,38.5,44.9,36.8,,2.13,0,0,22,56.67,32.2,6.6,72.1,86.6,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/27/2019,58.1,43.7,50.7,37.3,,0.15,0,0,21.6,251.21,33.1,9,32.7,74.09,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/28/2019,51.1,41.8,47.3,39.5,,0,0,0,8.2,228.13,,9.3,60.5,80.62,Partially cloudy
+"Chicago, IL, United States",10/29/2019,46.8,37.5,40,29.7,,0.13,0,0,15.4,276.96,27.1,7.7,85.5,81.07,"Rain, Overcast"
+"Chicago, IL, United States",10/30/2019,41.5,33.1,38.5,26.9,,0.72,1.13,1.13,18.4,82.25,27.7,5,91.3,88.41,"Snow, Overcast"
+"Chicago, IL, United States",10/31/2019,38.3,28.6,33,19.5,,0.23,1.23,1.23,20.4,302.25,32.4,3.8,78.5,88.37,"Snow, Overcast"
+"Chicago, IL, United States",11/1/2019,45.3,24.5,34.3,16.2,,0,0.74,1.97,14.4,221.08,28.6,9.3,50,71.66,"Snow, Partially cloudy"
+"Chicago, IL, United States",11/2/2019,43.8,35.9,39,28.7,,0,0,0,17.1,260.25,34.4,8.9,84.8,72.14,Overcast
+"Chicago, IL, United States",11/3/2019,52.8,31.5,42,26.6,,0,0,0,16.6,204.29,31.3,9.9,66.3,64.1,Partially cloudy
+"Chicago, IL, United States",11/4/2019,51.6,41.6,47.4,37.8,,0,0,0,14.5,245.83,26.4,9.9,68.7,59.91,Partially cloudy
+"Chicago, IL, United States",11/5/2019,41.2,31.3,36.9,26.9,,0,0,0,17,274.75,26.9,9.9,33.9,58.14,Partially cloudy
+"Chicago, IL, United States",11/6/2019,55.6,32.4,40.4,21.9,,0,0,0,19.5,196.92,30.6,9.5,85.1,60.29,Overcast
+"Chicago, IL, United States",11/7/2019,31.4,22.4,27.6,11.2,,0,0,0,17,330.46,25.5,9.3,40.3,58.11,Partially cloudy
+"Chicago, IL, United States",11/8/2019,31.9,17.4,25,8.8,,0,0,0,11.2,266.13,,9.9,41.8,49.89,Partially cloudy
+"Chicago, IL, United States",11/9/2019,46.8,28,37.4,18.6,,0,0,0,15.6,214.5,27.7,9.9,74.2,50.81,Partially cloudy
+"Chicago, IL, United States",11/10/2019,43.9,37.1,40.8,29.4,,0.01,0,0,12.5,142.83,,9.7,85.6,70.5,"Rain, Overcast"
+"Chicago, IL, United States",11/11/2019,36.2,16.5,26.1,1.5,,0.17,1.87,1.87,23.2,283.96,32.3,5.1,73.5,79.61,"Snow, Partially cloudy"
+"Chicago, IL, United States",11/12/2019,17.9,8.5,13.5,-7.3,,0,0.49,2.36,18.7,295.13,32.5,9.9,17.2,56.21,Snow
+"Chicago, IL, United States",11/13/2019,26.6,11.7,19.4,-0.9,,0,0.79,2.75,19.3,195.63,34.3,9.8,80.6,57.14,"Snow, Overcast"
+"Chicago, IL, United States",11/14/2019,30.5,24.9,28.1,15.8,,0,0,2.64,12.9,266.04,19.7,8.9,87,72.72,Overcast
+"Chicago, IL, United States",11/15/2019,37.5,22.1,29.4,14.1,,0,0,2.32,9.6,223.96,,9,41,72.88,Partially cloudy
+"Chicago, IL, United States",11/16/2019,41.8,28.8,34,25.6,,0,0.96,2.35,11.8,122.13,,8.9,36.1,75.69,"Snow, Partially cloudy"
+"Chicago, IL, United States",11/17/2019,41.5,28.6,34.6,22.3,,0.02,0,2.12,8.9,166.88,25.3,9.2,70.7,76.19,"Rain, Partially cloudy"
+"Chicago, IL, United States",11/18/2019,40.6,35.4,37.6,29.5,,0,0,0,8.3,261.29,,6.3,93.1,84.58,Overcast
+"Chicago, IL, United States",11/19/2019,41.3,35.8,38.6,30.4,,0.03,0,0,8.7,194.92,,6.9,86.9,81.39,"Rain, Overcast"
+"Chicago, IL, United States",11/20/2019,48,39.4,42.9,35.8,,0,0,0,14,216.71,32.2,6.4,82.4,81.66,Overcast
+"Chicago, IL, United States",11/21/2019,55.6,41.5,47.3,34.9,,0.46,0,0,25.2,225.17,42.4,8.6,90,81.47,"Rain, Overcast"
+"Chicago, IL, United States",11/22/2019,40.4,30.4,34.7,23,,0.04,0,0,15.4,223.29,24.7,9.9,51.9,66.59,"Rain, Partially cloudy"
+"Chicago, IL, United States",11/23/2019,39.8,26.8,32.6,20.9,,0,0,0,11,202.88,,9.9,48.3,76.1,Partially cloudy
+"Chicago, IL, United States",11/24/2019,50,33,41.6,24.9,,0,0,0,12.2,231.38,20.8,9.9,61,70.84,Partially cloudy
+"Chicago, IL, United States",11/25/2019,54.5,37.6,44.7,32.6,,0,0,0,12,215.04,20.8,9.9,43.4,73.81,Partially cloudy
+"Chicago, IL, United States",11/26/2019,47.3,33.7,41.9,36.9,,0.33,0,0,12.4,104.04,21.9,8,61.8,80.08,"Rain, Partially cloudy"
+"Chicago, IL, United States",11/27/2019,55.9,35.4,43.7,25.2,,0.21,0,0,32.6,243.67,52.5,9.1,89.6,74.85,"Rain, Overcast"
+"Chicago, IL, United States",11/28/2019,37.6,32.1,35,22.1,,0,0,0,17.7,267.67,31.1,9.8,92.2,70.29,Overcast
+"Chicago, IL, United States",11/29/2019,39.6,35.2,37.3,29.7,,0.01,0,0,11.8,164.75,,8.2,82.6,87.49,"Rain, Overcast"
+"Chicago, IL, United States",11/30/2019,40.2,36.1,38.4,26.7,,0.2,0,0,20.6,112.58,33.2,5.3,96,88.11,"Rain, Overcast"
+"Chicago, IL, United States",12/1/2019,42.5,32.9,39.2,22.3,,0.14,0,0,17.1,245.96,26.1,7.2,92.2,88.76,"Rain, Overcast"
+"Chicago, IL, United States",12/2/2019,35.6,30.3,32.5,19.7,,0,0,0,17.3,312.25,27.9,9.9,88,75.27,Overcast
+"Chicago, IL, United States",12/3/2019,40,29.8,34.3,19.5,,0,0,0,16.8,224.83,27.7,9.7,67.5,76.16,Partially cloudy
+"Chicago, IL, United States",12/4/2019,43.8,32.1,37.5,23.1,,0,0,0,21.1,284,33,9.9,29.1,67.97,Partially cloudy
+"Chicago, IL, United States",12/5/2019,45.5,28,37.6,22.9,,0,0,0,11.1,209.42,19.7,9.9,35.8,72.1,Partially cloudy
+"Chicago, IL, United States",12/6/2019,43,29.2,36.7,23.9,,0,0,0,19.4,188.46,31.4,9.9,55.5,68.88,Partially cloudy
+"Chicago, IL, United States",12/7/2019,38.3,26.2,32.3,18.7,,0,0,0,12.6,174.13,,9.9,65.2,71.28,Partially cloudy
+"Chicago, IL, United States",12/8/2019,47.6,35.2,41.5,26.2,,0,0,0,17,198.54,32.7,8.6,79.7,74.9,Overcast
+"Chicago, IL, United States",12/9/2019,48.1,28.4,43.9,16.5,,0.03,0,0,22.8,231.83,37.3,6.4,94.9,87.57,"Rain, Overcast"
+"Chicago, IL, United States",12/10/2019,26.1,16,20.3,1.9,,0,0,0,18.6,269.38,30,9.7,54.2,61.96,Partially cloudy
+"Chicago, IL, United States",12/11/2019,24.9,13.7,19.4,-0.3,,0,0,0,14.2,250.38,28.3,9.3,54.7,63.04,Partially cloudy
+"Chicago, IL, United States",12/12/2019,45.1,20.2,33.1,11.6,,0,0,0,19.3,177.17,36,9.4,78.6,63.52,Overcast
+"Chicago, IL, United States",12/13/2019,45.2,35.6,39.3,31.8,,0,0,0,11.7,185.08,23,9.9,61.4,63.53,Partially cloudy
+"Chicago, IL, United States",12/14/2019,35.7,26.4,31.9,15,,0,0,0,17.3,269.21,25.2,8.2,74.9,78.79,Partially cloudy
+"Chicago, IL, United States",12/15/2019,26.8,19.8,24.3,10.6,,0,0,0,13.5,250.58,20.8,9.9,72.2,66.65,Partially cloudy
+"Chicago, IL, United States",12/16/2019,30.6,25,28,17.9,,0,0,0,12,276.08,,7.6,86.5,78.63,Overcast
+"Chicago, IL, United States",12/17/2019,29.8,19.7,25.7,9.7,,0,0,0,18.1,291.33,28,9.9,57.1,74.2,Partially cloudy
+"Chicago, IL, United States",12/18/2019,28.8,12.8,19.4,-4,,0,0,0,16.9,297,25.3,9.8,56.2,49.51,Partially cloudy
+"Chicago, IL, United States",12/19/2019,36.8,16.3,26.1,4.2,,0,0,0,17.2,200.46,28.9,9.4,32.3,59.67,Partially cloudy
+"Chicago, IL, United States",12/20/2019,40.9,24.4,31.9,19.9,,0,0,0,8.6,131.38,,7.1,81.9,76.75,Overcast
+"Chicago, IL, United States",12/21/2019,47.8,32,39.1,25.3,,0,0,0,12.2,207.21,19.7,9.9,25.7,67.54,Partially cloudy
+"Chicago, IL, United States",12/22/2019,52.7,32.4,41.1,26,,0,0,0,13,210.33,26.4,9.9,32.4,66.51,Partially cloudy
+"Chicago, IL, United States",12/23/2019,52.4,36.2,42.4,29.7,,0,0,0,12.8,189.92,26.4,9.9,76,66.91,Overcast
+"Chicago, IL, United States",12/24/2019,54.9,30.4,42,28.9,,0,0,0,12.8,134.5,24.2,6.4,74.3,81.64,Partially cloudy
+"Chicago, IL, United States",12/25/2019,59,39.1,49.5,35.2,,0,0,0,14.2,196.21,22.4,9.9,70.5,72.71,Partially cloudy
+"Chicago, IL, United States",12/26/2019,61.9,41.7,54.5,36.2,,0,0,0,14.2,230.13,27.8,9.8,69.8,76.58,Partially cloudy
+"Chicago, IL, United States",12/27/2019,40.1,30.6,35.5,25.6,,0,0,0,15,258.25,24.2,8.5,74.5,78.83,Partially cloudy
+"Chicago, IL, United States",12/28/2019,47.9,29.6,38.1,26.6,,0.05,0,0,11.9,91.83,24.2,6.1,80.8,83.18,"Rain, Overcast"
+"Chicago, IL, United States",12/29/2019,57.8,48.8,54.6,45.2,,0.91,0,0,17.4,179.42,31.7,7.9,77.5,89.6,"Rain, Overcast"
+"Chicago, IL, United States",12/30/2019,48.7,28.5,34.7,14.9,,0.14,0.92,0.92,26,243.88,43.3,8,87.2,80.66,"Snow, Overcast"
+"Chicago, IL, United States",12/31/2019,28.8,25.6,27.2,11.5,,0.02,0.66,1.57,25.3,266.33,42.3,7.7,89.4,73.71,"Snow, Overcast"
+"Chicago, IL, United States",1/1/2020,43,22.2,32.9,12.8,,0,0.09,1.27,19.6,215.33,31.8,9.9,32,71.09,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/2/2020,48,37.3,42.8,29,,0,0.2,0.53,18.4,216.25,30.5,9.9,43.2,67.96,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/3/2020,41.5,34.5,37.3,28.4,,0,0,0,8.7,301.25,,9.7,91.4,75.95,Overcast
+"Chicago, IL, United States",1/4/2020,34.5,28,31.6,18.6,,0.01,0.38,0.38,13.8,313.71,20.8,8.4,90.2,73.42,"Snow, Overcast"
+"Chicago, IL, United States",1/5/2020,42.9,25,33.5,13.9,,0,0,0.13,21.2,234.63,36.9,9.8,72.8,72.45,Partially cloudy
+"Chicago, IL, United States",1/6/2020,42.1,27.1,33.9,20.2,,0,0,0,15.4,250.75,26.9,9.9,46,57.77,Partially cloudy
+"Chicago, IL, United States",1/7/2020,41.4,28.2,34.4,19.7,,0,0,0,17.2,254.29,28.7,9.9,64.8,61.09,Partially cloudy
+"Chicago, IL, United States",1/8/2020,29.7,16.5,22,2.9,,0,0,0,19.8,225.58,32.5,9.9,31,52.36,Partially cloudy
+"Chicago, IL, United States",1/9/2020,50.2,23.4,39.8,11.7,,0.03,0,0,25.2,172.04,42.7,9.8,81.8,63.72,"Rain, Overcast"
+"Chicago, IL, United States",1/10/2020,50.1,38.1,43.9,29.1,,0.75,0,0,17.2,103.29,32.9,3.6,100,92.83,"Rain, Overcast"
+"Chicago, IL, United States",1/11/2020,38.4,26.4,33.5,14.5,,0.66,0.25,0.25,27,42.67,46.6,3,90.5,91.36,"Snow, Overcast"
+"Chicago, IL, United States",1/12/2020,31.7,24.5,28.2,14.6,,0,0.76,1.01,14.5,199.25,23.8,8.7,97.4,82.68,"Snow, Overcast"
+"Chicago, IL, United States",1/13/2020,34.5,31.7,32.7,22.2,,0,0,0.94,15.5,210.13,22.2,8.9,98.1,79.22,Overcast
+"Chicago, IL, United States",1/14/2020,41.2,29,35.8,25.9,,0,0.26,0.59,15.8,231.54,27.7,7.8,68.5,83.32,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/15/2020,36.7,28.1,33.5,22.5,,0,0,0,15.7,172.71,26.1,4.7,82.1,89.25,Overcast
+"Chicago, IL, United States",1/16/2020,30.4,15.7,22.1,2.7,,0,0,0,17.4,272.04,25.2,9.7,61,60.42,Partially cloudy
+"Chicago, IL, United States",1/17/2020,28.9,15.4,23.2,6,,0.1,1.23,1.23,21,178.08,32.6,7.3,76.4,71.04,"Snow, Overcast"
+"Chicago, IL, United States",1/18/2020,36.2,7.9,26.8,-11.5,,0.4,1.4,2.63,27.8,223.38,43.9,6.6,98.7,82.08,"Snow, Overcast"
+"Chicago, IL, United States",1/19/2020,19.9,2.8,11.4,-17.1,,0,0.22,1.71,23.8,285.42,35.8,9.9,65.4,67.8,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/20/2020,31.5,18.2,23.9,8.6,,0,0.39,1.57,8.9,285.04,,9.7,63.3,68.68,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/21/2020,29.7,16.5,23.7,9.6,,0,0,1.57,13.5,243.54,20.8,9.9,28.4,71.89,Partially cloudy
+"Chicago, IL, United States",1/22/2020,34.8,25,29.5,13.5,,0,0.23,1.62,15.6,192.83,27.7,9.8,77.6,66.72,"Snow, Overcast"
+"Chicago, IL, United States",1/23/2020,35.3,29.8,32.7,21,,0.11,0.15,1.77,11,154.38,21.9,3.9,86.4,85.72,"Snow, Overcast"
+"Chicago, IL, United States",1/24/2020,38.2,33.9,36.1,27,,0.33,0,1.64,10.8,110.13,,2.5,88.7,96.01,"Rain, Overcast"
+"Chicago, IL, United States",1/25/2020,34.9,32.9,33.6,24.4,,0.14,0,1.18,12.2,256,23,4.8,96.6,93.8,"Rain, Overcast"
+"Chicago, IL, United States",1/26/2020,33.4,28.3,31.3,20.1,,0,0.4,1.18,13.3,261.33,21.9,8.6,98,86.47,"Snow, Overcast"
+"Chicago, IL, United States",1/27/2020,35.5,28.2,32,19.4,,0,0,1.18,9.4,307.21,,7.5,90.4,83.36,Overcast
+"Chicago, IL, United States",1/28/2020,33,31.1,32.2,24.7,,0,0,0.66,7.7,251.83,,9.5,99.9,75.11,Overcast
+"Chicago, IL, United States",1/29/2020,33.2,30.1,31.8,24.4,,0.06,0,0.39,7.7,75.79,,8.9,93.4,74.75,"Rain, Overcast"
+"Chicago, IL, United States",1/30/2020,34.3,31.1,33,26.9,,0,0.12,0.39,8.5,156.08,,9.1,97.9,68.18,"Snow, Overcast"
+"Chicago, IL, United States",1/31/2020,36.7,31.2,34.2,26.2,,0.02,0.07,0.39,7.9,183.04,,6,89.6,79.46,"Snow, Overcast"
+"Chicago, IL, United States",2/1/2020,37.3,33.5,34.9,24.1,,0.04,0,0.39,16.9,227.75,27.9,6.4,91.4,84.51,"Rain, Overcast"
+"Chicago, IL, United States",2/2/2020,53.1,35.4,43.2,26.8,,0,0,0,21.6,249.79,37.4,9.9,63,64,Partially cloudy
+"Chicago, IL, United States",2/3/2020,45.9,30.9,38.5,28.7,,0,0,0,17.1,64.63,25.3,9.9,49.6,75.83,Partially cloudy
+"Chicago, IL, United States",2/4/2020,38,30.7,34.7,18.7,,0,0,0,24.3,21.79,37.8,9.9,81.6,68.59,Overcast
+"Chicago, IL, United States",2/5/2020,31.1,27.9,29.4,16.7,,0.03,0.98,0.98,16.2,51.5,23,7.9,71.7,63.51,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/6/2020,30.1,27.8,29,16.8,,0.06,1.71,2.7,17.2,83.79,26.7,5.5,77.8,78.09,"Snow, Overcast"
+"Chicago, IL, United States",2/7/2020,37.4,22.3,30.3,14.5,,0,0.59,3.29,12.6,295.83,20.8,9.4,62.3,55.91,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/8/2020,35.3,27.9,31.1,20.9,,0,0.42,1.98,10.5,246.29,,9.5,71.9,67.47,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/9/2020,37,23.7,31.4,16.1,,0.07,0,1.97,17.8,193.92,27.9,6.8,82.9,81.65,"Rain, Overcast"
+"Chicago, IL, United States",2/10/2020,36.5,26.9,30.7,16.8,,0,0,1.63,13.4,253.92,21.9,8.7,77.3,77.74,Overcast
+"Chicago, IL, United States",2/11/2020,34.5,26.3,30.2,18.3,,0,0,1.37,19.2,267.25,30.4,8.6,52.7,69.19,Partially cloudy
+"Chicago, IL, United States",2/12/2020,36.4,25,30.5,16.9,,0.17,1.49,2.67,10.9,215.33,23,6.7,75.8,75.24,"Snow, Overcast"
+"Chicago, IL, United States",2/13/2020,32,5.8,18.2,-7,,0.02,0.89,3.57,18.5,284.17,28.6,5.5,62.1,73.42,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/14/2020,13.6,-1.4,6,-14.4,,0,0,3.57,11.2,246.42,24.2,9.9,4.8,57.31,Clear
+"Chicago, IL, United States",2/15/2020,32.3,7.4,23.5,-6.7,,0,0,2.84,19.1,209.5,31.5,9.9,62.7,65.73,Partially cloudy
+"Chicago, IL, United States",2/16/2020,41.4,18.1,30.2,11.7,,0,0.49,2.68,9.2,184.46,,9.7,35.2,71,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/17/2020,40.1,29.7,35.3,24.6,,0.13,0.73,1.9,15,120.58,27.4,6.4,85.3,78.03,"Snow, Overcast"
+"Chicago, IL, United States",2/18/2020,38.3,26.9,35,16.9,,0,0,0.92,18.3,282.08,30.5,8.7,61,71.38,Partially cloudy
+"Chicago, IL, United States",2/19/2020,29.8,16.9,23.3,4.7,,0,0,0,13.1,317.13,21.9,9.9,42.4,45.52,Partially cloudy
+"Chicago, IL, United States",2/20/2020,24.6,10.2,18.1,-4.2,,0,0,0,14.7,307.92,18.3,9.9,28.5,40.33,Partially cloudy
+"Chicago, IL, United States",2/21/2020,37.2,12.2,25,1.9,,0,0,0,19.1,230.96,30.4,9.9,5.6,48.85,Clear
+"Chicago, IL, United States",2/22/2020,50.1,26.9,38,17.5,,0,0,0,16.9,215.71,29,9.9,22.1,49.87,Clear
+"Chicago, IL, United States",2/23/2020,55.1,33.7,43.5,26.2,,0,0,0,15.5,225.88,25.3,9.9,25.2,54.05,Partially cloudy
+"Chicago, IL, United States",2/24/2020,42.4,37.4,39.4,28.8,,0,0,0,15.9,78.75,26.9,9.8,78.4,68.14,Overcast
+"Chicago, IL, United States",2/25/2020,39,33,36.6,21,,0.02,0.74,0.74,24.9,26.5,36.8,7.4,87.4,78.66,"Snow, Overcast"
+"Chicago, IL, United States",2/26/2020,32.3,26.4,29.5,13.1,,0.01,0.85,1.59,20.2,246.38,32.2,6.7,86.7,73.58,"Snow, Overcast"
+"Chicago, IL, United States",2/27/2020,30.7,22.9,26.9,12.8,,0,0.49,1.95,17.6,289.88,29.3,9.9,66.6,54.69,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/28/2020,29.9,19.1,23.5,9.7,,0,0,1.71,15.6,303.75,24.2,9.9,34.4,48.7,Partially cloudy
+"Chicago, IL, United States",2/29/2020,35.9,17.1,27,6.9,,0,0,0.79,12.7,253,20.8,9.9,11,45.38,Clear
+"Chicago, IL, United States",3/1/2020,57.4,30.5,45.1,22.3,,0,0,0,19.1,197.58,31.6,9.9,65.9,60.27,Partially cloudy
+"Chicago, IL, United States",3/2/2020,49.9,35.3,42.2,30,,0,0,0,10.9,284.04,,9.9,50,64.89,Partially cloudy
+"Chicago, IL, United States",3/3/2020,48.3,32,39.6,25.4,,0,0,0,22.8,252.71,37.7,9.8,50.8,65.39,Partially cloudy
+"Chicago, IL, United States",3/4/2020,48.5,35.4,41.2,31.9,,0.03,0,0,13.6,255.04,22.7,9.9,39.1,56.44,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/5/2020,51.8,34.2,42.1,27.1,,0,0,0,25.7,223.08,39.1,9.9,52.5,54.62,Partially cloudy
+"Chicago, IL, United States",3/6/2020,38.2,29.1,34,20.5,,0,0,0,24,179.83,37.9,9.6,62,64.58,Partially cloudy
+"Chicago, IL, United States",3/7/2020,52.4,24.1,38.2,17.9,,0,0,0,17.3,178.75,32.3,9.9,19.1,55.52,Clear
+"Chicago, IL, United States",3/8/2020,66.2,41,52.8,32.9,,0,0,0,22.9,201.71,36.6,9.9,50.6,35.3,Partially cloudy
+"Chicago, IL, United States",3/9/2020,56.8,48.5,53.7,43.3,,0.8,0,0,21.1,205.71,37.9,7.8,76.8,72,"Rain, Overcast"
+"Chicago, IL, United States",3/10/2020,51.8,34.4,40,28.7,,0.02,0,0,15.5,152.54,21.9,9.5,73.9,79.43,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/11/2020,43.7,36.2,40.4,30.4,,0,0,0,9.4,198.29,,8,90.8,74.22,Overcast
+"Chicago, IL, United States",3/12/2020,55.7,36.7,46.5,30.3,,0,0,0,21.1,198.13,34.5,7.7,64.1,73.99,Partially cloudy
+"Chicago, IL, United States",3/13/2020,49,34.4,41.9,25.5,,0,0,0,22.2,284.58,32.7,9.9,40.6,46.1,Partially cloudy
+"Chicago, IL, United States",3/14/2020,40.6,33.2,36.8,22.6,,0,0,0,17.3,57.71,26.4,9.4,73.1,60.85,Partially cloudy
+"Chicago, IL, United States",3/15/2020,39.7,34.1,35.8,24.8,,0,0,0,13.5,43.96,21,9.9,57.9,65.76,Partially cloudy
+"Chicago, IL, United States",3/16/2020,40.6,31.9,36.5,26.6,,0.02,0,0,9.1,191.5,,7.3,76.3,83.9,"Rain, Overcast"
+"Chicago, IL, United States",3/17/2020,47.2,36.9,40.6,28.7,,0,0,0,15.6,216.75,20.4,9.2,53.5,55.44,Partially cloudy
+"Chicago, IL, United States",3/18/2020,45.2,39.1,41.9,34.6,,0.43,0,0,10,104.38,,6.8,75,75.44,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/19/2020,63.4,40.5,49.7,35.9,,0.3,0,0,14.9,153.75,29.9,4.7,89.9,96.18,"Rain, Overcast"
+"Chicago, IL, United States",3/20/2020,62.1,32,41.3,22.2,,0.03,0,0,17.8,196.83,32.1,9.7,91.4,74.42,"Rain, Overcast"
+"Chicago, IL, United States",3/21/2020,32.5,27.9,29.6,17.3,,0,0,0,16.7,52.54,26.4,9.9,70,60.55,Partially cloudy
+"Chicago, IL, United States",3/22/2020,35.3,28.1,31.8,21.6,,0.11,1.31,1.31,13.1,105.67,23,6.8,56.8,76.31,"Snow, Partially cloudy"
+"Chicago, IL, United States",3/23/2020,43.5,33.2,36.8,28.4,,0.07,0.66,1.97,8.9,280.42,,6.6,77.6,84.27,"Snow, Overcast"
+"Chicago, IL, United States",3/24/2020,45.8,33.6,39.1,30.1,,0,0,0.57,12.6,98.08,19.7,7.2,60.3,79.61,Partially cloudy
+"Chicago, IL, United States",3/25/2020,55.9,33.4,46,33.5,,0,0,0,15.6,142.08,26.4,8.1,35.4,76.69,Partially cloudy
+"Chicago, IL, United States",3/26/2020,51.5,38.8,45,31.8,,0.01,0,0,13.6,98.04,21.9,8.8,88.1,87.3,"Rain, Overcast"
+"Chicago, IL, United States",3/27/2020,49.1,37.1,43.8,29.2,,0.18,0,0,13.4,51.75,21.9,3.8,94.9,93.9,"Rain, Overcast"
+"Chicago, IL, United States",3/28/2020,64.8,45.7,51.1,40.8,,0.78,0,0,20.8,104.04,41.4,6.5,84.7,95.39,"Rain, Overcast"
+"Chicago, IL, United States",3/29/2020,63.2,44.1,49.4,34.4,,0.01,0,0,29.3,246.75,50.5,9.8,82.1,67.99,"Rain, Overcast"
+"Chicago, IL, United States",3/30/2020,49.3,39.7,44,33,,0,0,0,17.4,220.21,30.7,9.9,86,65.96,Overcast
+"Chicago, IL, United States",3/31/2020,42,37.1,39.1,28.5,,0,0,0,14.6,32.96,23,9.7,90.5,80.64,Overcast
+"Chicago, IL, United States",4/1/2020,52.3,37.7,43.1,32.2,,0,0,0,11.3,166.5,,9.9,59.3,76.16,Partially cloudy
+"Chicago, IL, United States",4/2/2020,57.7,32.8,46.1,43,,0,0,0,12.5,92.21,18.3,9.9,42,64.08,Partially cloudy
+"Chicago, IL, United States",4/3/2020,68.7,46.2,56.5,42.7,,0,0,0,12.2,125.29,24.2,9.9,83.5,54.35,Overcast
+"Chicago, IL, United States",4/4/2020,55,37.7,42.9,31.4,,0.08,0,0,13.8,182.08,21.9,9.5,79.5,82.6,"Rain, Overcast"
+"Chicago, IL, United States",4/5/2020,49.4,36.7,42.2,30.5,,0,0,0,15.8,85.33,22.5,9.9,52.4,61.63,Partially cloudy
+"Chicago, IL, United States",4/6/2020,63.7,36.4,51.2,33.1,,0.11,0,0,13.2,121.58,22.6,9.8,63,68.63,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/7/2020,79.9,55.1,66.3,,,0.29,0,0,18.5,197.92,30.8,8.9,54.7,74.55,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/8/2020,69,49.6,55.6,44.7,,0.22,0,0,15.7,129.42,33.1,7.9,58.6,81.01,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/9/2020,48.5,37.1,43.1,29.3,,0,0,0,26.2,298.17,43.7,9.9,32.6,49.16,Partially cloudy
+"Chicago, IL, United States",4/10/2020,50,33.8,41.2,25.1,,0,0,0,16.2,249.63,23.2,9.9,41.7,50.65,Partially cloudy
+"Chicago, IL, United States",4/11/2020,63.6,42.2,52.8,39.1,,0.17,0,0,14.3,194.63,32,9.6,81.7,49.22,"Rain, Overcast"
+"Chicago, IL, United States",4/12/2020,65.8,49,56.6,45.3,,0,0,0,16,169.17,31.1,9.8,83,74.81,Overcast
+"Chicago, IL, United States",4/13/2020,55.4,35.9,40.5,23.9,,0.12,0,0,25.5,289.58,39.3,9.6,72.8,58.26,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/14/2020,39.5,29.9,35.2,20.7,,0,0,0,23.5,269.25,35.3,9.8,51.2,50.27,Partially cloudy
+"Chicago, IL, United States",4/15/2020,38.9,27.7,33.7,20.8,,0.05,0,0,12.7,307.29,25.3,7.9,75.4,56.88,"Rain, Overcast"
+"Chicago, IL, United States",4/16/2020,46.1,28.6,38.3,22,,0,0,0,14.1,270.21,23.3,9.9,50.6,39.11,Partially cloudy
+"Chicago, IL, United States",4/17/2020,42.2,33.5,36.7,25.9,,0.3,0,0,13.1,129.88,,6.7,64.4,80.62,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/18/2020,58.2,33.6,46.8,26.8,,0,0,0,24.1,228.17,39.1,9.9,16.7,58.16,Clear
+"Chicago, IL, United States",4/19/2020,61.5,42.1,49.9,39.6,,0,0,0,18.4,193,27.6,9.9,32.8,52.1,Partially cloudy
+"Chicago, IL, United States",4/20/2020,63.9,36.7,51.3,34.6,,0.04,0,0,22.8,235.42,43.4,9.8,30.8,52.91,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/21/2020,52.1,36.7,43.6,27.4,,0,0,0,20.3,263.33,34.4,9.9,23.6,37.48,Clear
+"Chicago, IL, United States",4/22/2020,58.7,39.8,48.1,34.9,,0.03,0,0,12,120.75,21.9,9.8,77.6,53.48,"Rain, Overcast"
+"Chicago, IL, United States",4/23/2020,56.6,44.1,49.5,39.1,,0.01,0,0,13.1,53.96,19.7,8.1,85,77.82,"Rain, Overcast"
+"Chicago, IL, United States",4/24/2020,47.8,42.2,44.2,36,,0,0,0,11.6,43.96,18.3,5.9,95.5,83.38,Overcast
+"Chicago, IL, United States",4/25/2020,46,42.7,44.2,34.6,,0.49,0,0,20.1,56.96,28.4,8.5,89.6,81.99,"Rain, Overcast"
+"Chicago, IL, United States",4/26/2020,61.3,42.5,51.2,36.7,,0,0,0,18.4,148.17,34.4,9.9,48.2,49.29,Partially cloudy
+"Chicago, IL, United States",4/27/2020,67.6,40.5,54.9,38,,0.38,0,0,20.7,177,32.5,9.3,60.8,58.52,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/28/2020,74.5,52.1,62.6,,,0.61,0,0,17.2,193.58,31.1,7.9,62.6,79.94,"Rain, Partially cloudy"
+"Chicago, IL, United States",4/29/2020,60.7,43.1,52.4,35.2,,1.8,0,0,21,263.71,32.2,5.3,85,92.78,"Rain, Overcast"
+"Chicago, IL, United States",4/30/2020,53.5,42.5,46.7,33.5,,0.18,0,0,22.6,222.46,36.1,9,61.6,75.17,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/1/2020,66.6,38.6,54.2,47,,0,0,0,9.8,193,,9.9,43.5,53.83,Partially cloudy
+"Chicago, IL, United States",5/2/2020,76.8,58.6,67.6,,,0,0,0,16.7,237.33,26.9,9.9,65.7,48.89,Partially cloudy
+"Chicago, IL, United States",5/3/2020,73.3,49.5,64.1,43.8,,0,0,0,17.9,231.58,34.3,9.9,44.2,37.12,Partially cloudy
+"Chicago, IL, United States",5/4/2020,48.5,40.7,44,32.8,,0,0,0,20.7,33.83,29.5,9.9,60.7,67.78,Partially cloudy
+"Chicago, IL, United States",5/5/2020,47.3,43.3,45.4,38.3,,0.19,0,0,13.7,72.08,20.8,9.8,87.8,69.49,"Rain, Overcast"
+"Chicago, IL, United States",5/6/2020,61,38.7,51.6,33.5,,0,0,0,11.2,207.88,20.8,9.9,51.2,39.56,Partially cloudy
+"Chicago, IL, United States",5/7/2020,64.9,46.9,53.9,44.5,,0,0,0,21,192.5,34.5,9.9,36,47.12,Partially cloudy
+"Chicago, IL, United States",5/8/2020,46.2,35.6,40.7,29.2,,0,0,0,22.8,39.88,34.3,9.9,55.3,53.84,Partially cloudy
+"Chicago, IL, United States",5/9/2020,58.2,32,46.8,25.1,,0,0,0,17,237.67,29,9.9,22.7,41.89,Clear
+"Chicago, IL, United States",5/10/2020,53.5,37.4,45.6,28.5,,0.35,0,0,20.6,229.33,30.2,9.3,77.4,74.83,"Rain, Overcast"
+"Chicago, IL, United States",5/11/2020,48.8,40.2,44.7,35.9,,0,0,0,11.3,235.25,20.2,9.9,77.7,62.8,Overcast
+"Chicago, IL, United States",5/12/2020,61.9,39.4,49.9,35.3,,0,0,0,14.2,191.67,22.8,9.9,33.1,45.98,Partially cloudy
+"Chicago, IL, United States",5/13/2020,68.4,44,57.1,39.7,,0,0,0,17.4,136.58,28.4,9.9,53.3,39.81,Partially cloudy
+"Chicago, IL, United States",5/14/2020,73.1,55.1,62.4,,,1.54,0,0,14.4,176.38,26,7.1,79.5,89.2,"Rain, Overcast"
+"Chicago, IL, United States",5/15/2020,75.4,57.6,66.4,,,1,0,0,13.7,180.54,33.3,8.6,68.9,77.31,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/16/2020,66.3,51.4,57.3,,,0.13,0,0,15.5,35.88,23.4,9.7,58.4,71.63,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/17/2020,67.4,53.6,61.2,,,3.69,0,0,13.7,139.33,27.8,4.7,86.4,96,"Rain, Overcast"
+"Chicago, IL, United States",5/18/2020,64.1,52.4,58.7,,,0.04,0,0,12.9,99.46,20.8,6.3,80.6,89.8,"Rain, Overcast"
+"Chicago, IL, United States",5/19/2020,59.1,52.4,55.4,,,0.17,0,0,17.9,36.92,26.4,5.1,93.3,93.89,"Rain, Overcast"
+"Chicago, IL, United States",5/20/2020,64,54.5,58.9,,,0,0,0,17.5,78.17,27.2,9.9,69.3,72.19,Partially cloudy
+"Chicago, IL, United States",5/21/2020,67,56.2,60.9,,,0,0,0,10.7,85.96,19.7,9.6,89.4,68.98,Overcast
+"Chicago, IL, United States",5/22/2020,68.8,57.5,62,,,0,0,0,10.6,85.08,,7.6,62.9,80.74,Partially cloudy
+"Chicago, IL, United States",5/23/2020,81.8,55,67.5,,82.1,0.62,0,0,17.3,99,28.7,8.8,55.5,79.04,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/24/2020,88.9,63.8,76.6,,89.7,0,0,0,10.6,208.17,21.9,9.8,54.1,66.68,Partially cloudy
+"Chicago, IL, United States",5/25/2020,87.8,69.9,77.6,,88,0.08,0,0,12.7,198.83,25.3,9.9,58.7,66.06,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/26/2020,87.8,69.4,79.7,,89.4,0,0,0,15.4,156.13,31.1,9.9,49.8,61.91,Partially cloudy
+"Chicago, IL, United States",5/27/2020,86.1,72.7,77.8,,87.6,0.02,0,0,10,171.92,20.8,9.9,61.5,66.96,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/28/2020,81.7,66.6,73.2,,82.4,0.11,0,0,18.7,184.25,29.1,9.7,72.4,76.71,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/29/2020,74.5,59.9,66.4,,,0.13,0,0,16.9,251.63,27.7,9.7,57.5,61.22,"Rain, Partially cloudy"
+"Chicago, IL, United States",5/30/2020,71.1,55.1,62,,,0,0,0,12.4,213.88,19.7,9.9,31.1,59,Partially cloudy
+"Chicago, IL, United States",5/31/2020,65.3,51.5,58.8,,,0,0,0,12.1,81.21,18.3,9.9,22.6,51.23,Clear
+"Chicago, IL, United States",6/1/2020,75.8,54.3,66,,,0.01,0,0,18.6,189.5,31.6,9.9,52.4,46.88,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/2/2020,94,67.1,81,,95.1,0,0,0,21,239.17,31.8,9.9,38,50.97,Partially cloudy
+"Chicago, IL, United States",6/3/2020,84.8,69.2,76.2,,84.2,0.07,0,0,15.6,185.54,26.4,9.9,62.7,59.84,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/4/2020,85.9,69.1,77.6,,86.4,0,0,0,14.6,190.08,27,9.9,56.5,64.94,Partially cloudy
+"Chicago, IL, United States",6/5/2020,89.1,70.3,80,,89.4,0,0,0,13.7,202.08,23,9.9,53.6,61.82,Partially cloudy
+"Chicago, IL, United States",6/6/2020,74.4,61,69.8,,,0,0,0,13.7,98.63,20.8,9.5,30.9,56.8,Partially cloudy
+"Chicago, IL, United States",6/7/2020,77.7,58.4,68.4,,,0,0,0,11.8,67.17,19.7,9.9,43.1,58.8,Partially cloudy
+"Chicago, IL, United States",6/8/2020,89,63.8,78.2,,86.4,0,0,0,13.3,136.63,21.9,9.9,40.5,42.72,Partially cloudy
+"Chicago, IL, United States",6/9/2020,90,74.3,79.6,,93,0.29,0,0,24.6,153.38,49.1,9.3,68.6,61.97,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/10/2020,83,62.2,73.2,,86.3,0.25,0,0,25.5,231.5,41.6,9.6,64.3,75.12,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/11/2020,81.7,59.2,71.7,,80.1,0,0,0,21.1,262.63,35.9,9.9,17.9,48.21,Clear
+"Chicago, IL, United States",6/12/2020,75,55.9,65.8,,,0,0,0,15.3,93.21,23,9.9,24,56.23,Clear
+"Chicago, IL, United States",6/13/2020,66.3,53.3,59.3,,,0.06,0,0,17.7,47.13,25.3,9.9,54.5,61.11,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/14/2020,68.6,55.7,62,,,0,0,0,13.8,62.04,23.3,9.9,20.5,52.45,Clear
+"Chicago, IL, United States",6/15/2020,72.1,55.2,64.6,,,0,0,0,12.6,73.04,21.3,9.9,25.8,49.17,Partially cloudy
+"Chicago, IL, United States",6/16/2020,83.3,57.8,71.4,,82.2,0,0,0,12.9,95.79,20.8,9.9,20.2,55.59,Clear
+"Chicago, IL, United States",6/17/2020,85.8,64.5,76.1,,83.4,0,0,0,14.4,87.96,20.8,9.9,28.7,47.76,Partially cloudy
+"Chicago, IL, United States",6/18/2020,87.5,65.5,77.8,,85.1,0,0,0,14.5,80.83,23,9.9,18.1,43.48,Clear
+"Chicago, IL, United States",6/19/2020,92,69.4,81.8,,90.1,0,0,0,12.5,161.58,21.9,9.9,39.7,44.67,Partially cloudy
+"Chicago, IL, United States",6/20/2020,89.8,71.2,80.3,,88.6,0.31,0,0,19.6,191.75,32.5,9.6,55,56.77,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/21/2020,81.6,69.8,75.8,,82.3,0.04,0,0,14.2,190.5,,9.8,56.9,69.74,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/22/2020,84.4,67.2,74.1,,87.3,0.8,0,0,13,179.17,26.4,9.3,55.3,77.09,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/23/2020,77.5,63,69.3,,,0,0,0,17.7,252.38,26.4,9.9,67.3,65.39,Partially cloudy
+"Chicago, IL, United States",6/24/2020,78.6,61.8,70.6,,,0.08,0,0,12.3,255.08,30.9,9.9,57.9,58.62,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/25/2020,83.1,62.8,74.1,,81.9,0,0,0,12,217.67,21.3,9.9,38.5,52.38,Partially cloudy
+"Chicago, IL, United States",6/26/2020,83.3,69.6,74.1,,88.5,1.4,0,0,18.4,216.04,41.7,9.2,62.6,73.86,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/27/2020,88.1,71.7,79.1,,90.7,0,0,0,12.4,246.63,,9.9,54.4,72.47,Partially cloudy
+"Chicago, IL, United States",6/28/2020,83.4,71.7,77.4,,87.6,0.11,0,0,13.4,145.42,,9.9,54,74.29,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/29/2020,90.9,72.4,79,,98.2,0.35,0,0,13.8,140.79,36.7,9.8,57,73.78,"Rain, Partially cloudy"
+"Chicago, IL, United States",6/30/2020,87.8,73.5,80.4,,93.6,0,0,0,14,90.57,19.7,9.9,51.2,71.72,Partially cloudy
+"Chicago, IL, United States",7/1/2020,87.3,73.7,80.4,,88.8,0,0,0,14.2,85.29,23,9.7,45.3,60.57,Partially cloudy
+"Chicago, IL, United States",7/2/2020,89.1,72,80.6,,88.5,0,0,0,11.8,63.75,18.3,9.9,43.4,56.95,Partially cloudy
+"Chicago, IL, United States",7/3/2020,88.7,69.5,80.6,,87.5,0,0,0,11.4,147.46,18.3,9.9,34.2,54.42,Partially cloudy
+"Chicago, IL, United States",7/4/2020,88.7,71.9,80.7,,92.4,0,0,0,12.8,141.54,20.8,9.5,44,63.34,Partially cloudy
+"Chicago, IL, United States",7/5/2020,90.7,73.1,82.7,,91.4,0,0,0,11.8,73.92,17.2,9.3,24.4,55.83,Clear
+"Chicago, IL, United States",7/6/2020,93.3,76.5,85.4,,93.9,0,0,0,11,138.17,,9.9,35.1,48.65,Partially cloudy
+"Chicago, IL, United States",7/7/2020,93.5,75.1,84.9,,96,0.12,0,0,13.3,202.04,59.7,9.9,36.4,55.38,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/8/2020,90.6,74.6,82.1,,94.1,0,0,0,10.2,127,20.8,9.9,58.9,63.97,Partially cloudy
+"Chicago, IL, United States",7/9/2020,92.4,76.1,84.5,,97.2,0.07,0,0,17.2,205.29,34.1,9.8,49,60.27,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/10/2020,86.4,70.4,78.1,,88,0.66,0,0,19.9,277.67,30,9.2,53.5,70.3,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/11/2020,84.1,71.1,78.2,,85,0.02,0,0,15.3,277.75,26.6,9.9,33.6,60.54,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/12/2020,78.2,69.8,73.8,,,0.01,0,0,19.3,113.67,26.4,9.9,45.7,70.05,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/13/2020,81,64.3,73.6,,81.6,0,0,0,11.4,183.38,,9.9,27.1,63.2,Partially cloudy
+"Chicago, IL, United States",7/14/2020,84.8,67.8,77.2,,84.3,0,0,0,14.5,178.21,27.7,9.9,38.2,55.8,Partially cloudy
+"Chicago, IL, United States",7/15/2020,86.3,68.3,77.7,,88.3,0.61,0,0,15.4,151.33,20.8,9,65.1,68.53,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/16/2020,81.7,67.9,74.4,,83.5,0.06,0,0,15.7,182.29,26.4,9.1,71.2,74.52,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/17/2020,88.6,67.8,78.8,,89.4,0,0,0,13.6,211.21,20.8,9.9,31.7,65.96,Partially cloudy
+"Chicago, IL, United States",7/18/2020,90,76.5,83.5,,100.9,0,0,0,16.6,199.38,28.6,9.9,51.3,72.77,Partially cloudy
+"Chicago, IL, United States",7/19/2020,83.7,72.1,78.9,,91,0.48,0,0,16.7,238,40.7,9.6,54.5,74.69,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/20/2020,84.8,67.3,76.8,,84.6,0,0,0,10.5,220.92,20.8,9.9,60.4,60.21,Partially cloudy
+"Chicago, IL, United States",7/21/2020,80.8,73,75.8,,82.6,0.05,0,0,9.6,118.54,21.9,9.9,68.8,69.92,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/22/2020,85.7,72.4,78.2,,88.9,0,0,0,13,255.08,20.8,9.9,63.2,72.03,Partially cloudy
+"Chicago, IL, United States",7/23/2020,80,65.7,73.5,,81,0,0,0,12.8,199.21,18.3,9.9,37.9,64.84,Partially cloudy
+"Chicago, IL, United States",7/24/2020,83.7,66.4,75.7,,86,0,0,0,9.7,195.25,17.2,9.9,36.8,71.22,Partially cloudy
+"Chicago, IL, United States",7/25/2020,89.8,70.1,80.8,,91.9,0,0,0,10,179.08,20.6,9.6,40,62.95,Partially cloudy
+"Chicago, IL, United States",7/26/2020,94.5,75.8,85,,102.5,0.04,0,0,17.9,226,43.6,9.9,47.7,64.76,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/27/2020,85.1,74.9,78.7,,88.2,0.15,0,0,15.1,274.92,23.4,9.9,53.4,72.9,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/28/2020,87.9,69,79,,87.8,0,0,0,15.2,257.83,24.3,9.9,30.9,53.97,Partially cloudy
+"Chicago, IL, United States",7/29/2020,88.6,72.9,79.6,,91.3,0.16,0,0,13,195.38,21,9.8,66.1,62.19,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/30/2020,82.5,71.4,77.1,,81.9,0.03,0,0,17.9,56.63,29.5,9.9,67.4,60.79,"Rain, Partially cloudy"
+"Chicago, IL, United States",7/31/2020,79.7,68.8,74.4,,,0,0,0,14,108.04,20.8,9.9,53,62.78,Partially cloudy
+"Chicago, IL, United States",8/1/2020,79.2,70,74.1,,,0.06,0,0,10.6,44.38,,9.9,65.2,67.99,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/2/2020,83.7,66.2,72.3,,84.1,0.17,0,0,15.2,206.5,25.1,9.5,59.1,76.36,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/3/2020,70.7,64.6,67.3,,,0,0,0,16.7,243.42,24.2,9.9,79.6,78.45,Overcast
+"Chicago, IL, United States",8/4/2020,73.5,59.1,66.7,,,0,0,0,15.6,152.46,29.8,9.9,35.7,54.58,Partially cloudy
+"Chicago, IL, United States",8/5/2020,75.8,56.5,68.1,,,0,0,0,9.8,246,19.7,9.9,51.1,55.65,Partially cloudy
+"Chicago, IL, United States",8/6/2020,79,65.1,72.6,,,0,0,0,9,171,,9.9,51.2,53.92,Partially cloudy
+"Chicago, IL, United States",8/7/2020,83.3,62.6,74.3,,82.5,0,0,0,11.1,108.71,18.3,9.9,31.2,56.42,Partially cloudy
+"Chicago, IL, United States",8/8/2020,87.8,68,78,,91,0,0,0,13.9,193.5,26.7,9.9,39.7,57.51,Partially cloudy
+"Chicago, IL, United States",8/9/2020,90,72.7,81.2,,93.8,0.06,0,0,16,200.17,34.4,9.9,42.3,66.98,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/10/2020,89.4,70.4,77.7,,99.1,0.44,0,0,30.7,193,63.8,9.6,60.2,79.74,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/11/2020,81.8,66.8,74.4,,80.8,0,0,0,10.3,148.58,18.3,9.9,47.2,60.57,Partially cloudy
+"Chicago, IL, United States",8/12/2020,83.7,63,75,,83.2,0,0,0,11.1,98.83,20.8,9.9,37.4,58.16,Partially cloudy
+"Chicago, IL, United States",8/13/2020,83.7,70.6,77.4,,82.9,0,0,0,10.2,63.83,16.8,9.9,37.3,60.58,Partially cloudy
+"Chicago, IL, United States",8/14/2020,88.1,70.7,79.2,,86.4,0,0,0,12.3,50.04,18.3,9.9,15.1,57.05,Clear
+"Chicago, IL, United States",8/15/2020,88.4,71.1,78.2,,89.8,0.07,0,0,12.2,235.79,24.2,9.9,48.6,66.18,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/16/2020,83.5,64.9,74.7,,82.8,0,0,0,13,179.58,,9.9,32.6,53.45,Partially cloudy
+"Chicago, IL, United States",8/17/2020,83.3,69.5,76.5,,82.1,0,0,0,8.7,177.75,,9.9,51.1,48.7,Partially cloudy
+"Chicago, IL, United States",8/18/2020,77.1,68.9,73,,,0,0,0,17.2,63.25,23.9,9.9,43.3,51.53,Partially cloudy
+"Chicago, IL, United States",8/19/2020,79.6,62.5,71.8,,,0,0,0,9.9,152.17,17.2,9.9,18.9,54.03,Clear
+"Chicago, IL, United States",8/20/2020,84.5,63.1,74.8,,82.8,0,0,0,10.2,215.75,18.3,9.9,17.4,48.46,Clear
+"Chicago, IL, United States",8/21/2020,86.4,65.9,76.9,,85.1,0,0,0,8.8,233.21,,9.9,21.6,52.8,Clear
+"Chicago, IL, United States",8/22/2020,87.7,68.3,78.2,,86.9,0,0,0,14.6,228.5,20.8,9.9,32.7,54.19,Partially cloudy
+"Chicago, IL, United States",8/23/2020,89.5,70.2,79.1,,91.2,0.17,0,0,15,201.92,35.6,9.9,58.1,59.04,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/24/2020,95.5,72,84,,97.7,0,0,0,12.4,250.96,23,9.8,24.9,60.38,Clear
+"Chicago, IL, United States",8/25/2020,88.2,76.2,81.9,,89.8,0.04,0,0,17.8,160.17,36.6,9.9,43.1,59.26,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/26/2020,92.3,75.1,83.6,,94.8,0,0,0,17,217.46,27.2,9.9,18,60.77,Clear
+"Chicago, IL, United States",8/27/2020,93.8,77.4,85.1,,99.3,0,0,0,15.7,233.29,27.7,9.9,32.2,63.44,Partially cloudy
+"Chicago, IL, United States",8/28/2020,93.7,76.2,84.9,,96.5,0.05,0,0,15.8,236.33,27.4,9.9,37.2,64.38,"Rain, Partially cloudy"
+"Chicago, IL, United States",8/29/2020,82.6,70.5,77.1,,85,0,0,0,18.8,326.83,23,9.9,43.7,50.11,Partially cloudy
+"Chicago, IL, United States",8/30/2020,77.3,63.9,71.3,,,0,0,0,12.5,139.04,19.7,9.9,56.4,57.32,Partially cloudy
+"Chicago, IL, United States",8/31/2020,84.4,65.6,75.2,,83.4,0,0,0,14.6,182.83,25.3,9.9,55.3,56.16,Partially cloudy
+"Chicago, IL, United States",9/1/2020,75.4,69.4,71.5,,,0.32,0,0,12.2,136,,9.1,83,80.08,"Rain, Overcast"
+"Chicago, IL, United States",9/2/2020,86.9,70.3,76.5,,84.1,0.03,0,0,17,256.13,28.3,9.2,60.2,62.11,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/3/2020,87.4,66.8,75.5,,85.1,0,0,0,23.8,259.75,39.1,9.9,30.8,51.69,Partially cloudy
+"Chicago, IL, United States",9/4/2020,79.1,56.7,68.9,,,0,0,0,16.4,280.13,30.6,9.9,17.9,42.99,Clear
+"Chicago, IL, United States",9/5/2020,82.2,64.5,72.5,,80.6,0,0,0,18.6,207.92,31.2,9.9,29.4,47.78,Partially cloudy
+"Chicago, IL, United States",9/6/2020,82.2,59.9,70.6,,84,0.48,0,0,20.6,190.46,34.9,9.4,67.3,69.62,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/7/2020,78.7,65.8,72.7,,,0,0,0,18.9,168.79,31,9.9,63,59.89,Partially cloudy
+"Chicago, IL, United States",9/8/2020,67.5,61,63.1,,,0.87,0,0,19.6,78.63,29.5,7.5,91.3,87.45,"Rain, Overcast"
+"Chicago, IL, United States",9/9/2020,65.2,60.6,62.6,,,0.41,0,0,14.2,27.46,24.2,8.7,98.6,85.6,"Rain, Overcast"
+"Chicago, IL, United States",9/10/2020,66.1,57.1,61.7,,,0.14,0,0,15.8,71.83,26.4,9.1,91.6,78.86,"Rain, Overcast"
+"Chicago, IL, United States",9/11/2020,68.6,61.8,64.6,,,0.04,0,0,11.9,76.96,,9.2,85.4,79.03,"Rain, Overcast"
+"Chicago, IL, United States",9/12/2020,72.9,64.4,67.8,,,0.3,0,0,11.9,184.21,20.8,7.7,86,84.75,"Rain, Overcast"
+"Chicago, IL, United States",9/13/2020,75.6,61,67,,,0.02,0,0,10.8,217.04,19.7,9.9,36.3,72.5,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/14/2020,74.5,57.6,65.6,,,0,0,0,8.3,88.63,,9.9,51.6,73.58,Partially cloudy
+"Chicago, IL, United States",9/15/2020,78.3,59,68.5,,,0,0,0,13.7,183.13,21.9,9.9,74.1,65.06,Partially cloudy
+"Chicago, IL, United States",9/16/2020,83.1,61.4,71.3,,83.4,0,0,0,14.2,207,21.9,9.9,70.5,61.53,Partially cloudy
+"Chicago, IL, United States",9/17/2020,70.5,60.4,65.5,,,0,0,0,18,37.54,28.9,9.8,51.4,60.78,Partially cloudy
+"Chicago, IL, United States",9/18/2020,60.6,49.9,57.7,48.9,,0,0,0,18.6,64.92,26.3,9.9,41.5,51.74,Partially cloudy
+"Chicago, IL, United States",9/19/2020,64.4,47.3,55.5,44.4,,0,0,0,10.2,153.5,17.2,9.9,23.9,53.56,Clear
+"Chicago, IL, United States",9/20/2020,72,49.3,60.8,49.5,,0,0,0,12.5,95.83,20.8,9.9,19.8,49.53,Clear
+"Chicago, IL, United States",9/21/2020,74.9,51.8,63.8,,,0,0,0,10.4,164.08,19.7,9.9,32.7,46.59,Partially cloudy
+"Chicago, IL, United States",9/22/2020,78.6,54.4,66.9,,,0,0,0,10,206.29,18.3,9.9,29.8,55.53,Partially cloudy
+"Chicago, IL, United States",9/23/2020,78.5,58,68.2,,,0,0,0,10.6,235.83,16.1,9.9,54.9,63.75,Partially cloudy
+"Chicago, IL, United States",9/24/2020,78.9,56.3,68.3,,,0,0,0,13.2,213.38,22.1,9.9,44.3,62.05,Partially cloudy
+"Chicago, IL, United States",9/25/2020,80.1,59.1,70.6,,80,0,0,0,14.3,196.96,23.5,9.9,12.7,55.82,Clear
+"Chicago, IL, United States",9/26/2020,78,63.5,69.8,,,0,0,0,21.1,201.13,35,9.7,67,71.16,Partially cloudy
+"Chicago, IL, United States",9/27/2020,76.8,56.7,68.9,,,0.03,0,0,18.8,267.75,31.8,9.9,66.6,64.93,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/28/2020,61,53.1,55.7,,,0.34,0,0,13.6,268.54,27.7,9.5,72.6,78.34,"Rain, Partially cloudy"
+"Chicago, IL, United States",9/29/2020,60.4,45.7,53.6,43.8,,0,0,0,14.4,248.63,24.2,9.9,40.9,70.83,Partially cloudy
+"Chicago, IL, United States",9/30/2020,67,51.8,57.7,,,0,0,0,23.6,257.21,40.2,9.9,54.5,59.68,Partially cloudy
+"Chicago, IL, United States",10/1/2020,56.2,48.1,51.7,44.9,,0.27,0,0,17.3,287.71,40.3,9.9,53,70.22,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/2/2020,55.3,43.6,49,38,,0,0,0,14.9,269.5,20.8,9.9,42.4,60.17,Partially cloudy
+"Chicago, IL, United States",10/3/2020,56.6,46.3,50.4,43.7,,0.11,0,0,7.9,225.29,,9.8,81.3,62.9,"Rain, Overcast"
+"Chicago, IL, United States",10/4/2020,56,42.5,48.4,36.3,,0.07,0,0,16.1,330.25,23,9.9,55.1,66.76,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/5/2020,62.3,37.8,51,38.4,,0,0,0,18,221.13,30.6,9.9,17.3,52.49,Clear
+"Chicago, IL, United States",10/6/2020,74.4,51.5,61.4,,,0,0,0,18.1,229.71,28.9,9.9,26.9,48.39,Partially cloudy
+"Chicago, IL, United States",10/7/2020,75.5,57.6,66.4,,,0,0,0,16.1,245.5,27.1,9.9,3.2,47.33,Clear
+"Chicago, IL, United States",10/8/2020,69.7,49.4,58.3,,,0,0,0,13.6,65.25,,9.9,3.1,62.73,Clear
+"Chicago, IL, United States",10/9/2020,81.4,51.6,66.6,,80.2,0,0,0,20.8,182.46,32.7,9.5,22.4,52.39,Clear
+"Chicago, IL, United States",10/10/2020,75.3,57.7,65.9,,,0,0,0,16.3,154.67,25.3,9.9,34,68.7,Partially cloudy
+"Chicago, IL, United States",10/11/2020,67.4,56.8,62.8,,,0,0,0,12.7,72.21,20.4,9.9,53.6,70.07,Partially cloudy
+"Chicago, IL, United States",10/12/2020,66.2,51.5,59.8,,,0.23,0,0,17.9,209.71,37.5,8.9,44.8,78.4,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/13/2020,73.1,44.2,57.7,40.5,,0,0,0,22.3,238.46,37.8,9.9,30.8,47.63,Partially cloudy
+"Chicago, IL, United States",10/14/2020,78.4,47.4,62.2,45.8,,0,0,0,24.5,213.17,45.8,9.9,80.6,42.1,Overcast
+"Chicago, IL, United States",10/15/2020,65.6,44.6,53.5,40,,0,0,0,24.8,284.17,35.2,9.9,69.2,41.9,Partially cloudy
+"Chicago, IL, United States",10/16/2020,54.2,36.9,45.1,31.2,,0.01,0,0,16.4,243.13,30,9.9,37.7,47.33,"Rain, Partially cloudy"
+"Chicago, IL, United States",10/17/2020,64.9,38.1,52.3,33.8,,0,0,0,25.5,187.79,45.4,9.9,84.9,39.85,Overcast
+"Chicago, IL, United States",10/18/2020,59.5,39.7,48.9,36.3,,0.2,0,0,20,253.33,32.1,9.8,95.7,64.66,"Rain, Overcast"
+"Chicago, IL, United States",10/19/2020,49.8,39.9,42.8,34.2,,0.05,0,0,14.6,204,20.8,9.3,92.1,75.61,"Rain, Overcast"
+"Chicago, IL, United States",10/20/2020,53.2,41.9,47,35.7,,0.13,0,0,12.9,140.88,20.5,8.3,98.6,75.21,"Rain, Overcast"
+"Chicago, IL, United States",10/21/2020,57.5,47,51.2,41.8,,0.21,0,0,13.7,181.92,23.4,8.4,92.7,74.62,"Rain, Overcast"
+"Chicago, IL, United States",10/22/2020,77.8,47.7,60.4,42.6,,2.04,0,0,15.4,142.88,29.3,6.1,80.7,80.67,"Rain, Overcast"
+"Chicago, IL, United States",10/23/2020,71.1,42.8,55.2,35.5,,0.52,0,0,18.2,283.63,29.6,8.6,85.2,78.16,"Rain, Overcast"
+"Chicago, IL, United States",10/24/2020,45.9,35.2,40.9,28.6,,0,0,0,12.9,202.5,,9.9,64.7,64.59,Partially cloudy
+"Chicago, IL, United States",10/25/2020,47,41.5,44.3,34.9,,0,0,0,14,31.58,20.8,9.9,98.6,66.06,Overcast
+"Chicago, IL, United States",10/26/2020,42.5,34.1,37.4,26.3,,0.03,0,0,15,346.21,23.5,9,100,76.31,"Rain, Overcast"
+"Chicago, IL, United States",10/27/2020,37.4,34.1,35.8,29,,0.06,0,0,7.7,285.79,,8.1,96.2,75.03,"Rain, Overcast"
+"Chicago, IL, United States",10/28/2020,50.9,31.6,41.2,25.1,,0,0,0,12.9,230.92,22.2,9.9,58.3,59.04,Partially cloudy
+"Chicago, IL, United States",10/29/2020,49.4,37.7,43.8,29.7,,0,0,0,23.4,132.96,38.3,9.9,94.3,66.04,Overcast
+"Chicago, IL, United States",10/30/2020,43.1,30.6,36.6,25.2,,0,0,0,10.8,216.25,19.7,9.9,24.2,56.37,Clear
+"Chicago, IL, United States",10/31/2020,59,31.1,45.4,26.3,,0.01,0,0,21.1,176.58,34.3,9.9,20.5,58.31,Rain
+"Chicago, IL, United States",11/1/2020,54.5,32.3,40.7,25.4,,0,0,0,27.9,292.88,44.6,9.9,46.2,44.47,Partially cloudy
+"Chicago, IL, United States",11/2/2020,50.5,28.2,39,21.1,,0,0,0,20.1,247.63,30.4,9.9,41.6,44.43,Partially cloudy
+"Chicago, IL, United States",11/3/2020,69.9,38.4,53.4,34,,0,0,0,13.9,220.29,24.2,9.9,5.3,45.69,Clear
+"Chicago, IL, United States",11/4/2020,73.9,49.8,61.2,46,,0,0,0,19.9,211.21,32.2,9.9,22.5,48.7,Clear
+"Chicago, IL, United States",11/5/2020,71.1,57.1,62.3,,,0,0,0,14.6,222.75,24.2,9.9,55.2,49.35,Partially cloudy
+"Chicago, IL, United States",11/6/2020,74,49.1,61.3,46.1,,0,0,0,15.3,209.42,24.3,9.9,31.8,58.61,Partially cloudy
+"Chicago, IL, United States",11/7/2020,71.4,53.4,61.8,,,0,0,0,14.1,199,26.6,9.9,25.9,54.96,Partially cloudy
+"Chicago, IL, United States",11/8/2020,76.5,54.3,65.3,,,0,0,0,15.9,174.54,26.4,9.9,50.6,63.12,Partially cloudy
+"Chicago, IL, United States",11/9/2020,75.5,63.1,69.5,,,0,0,0,17.1,187.04,32.9,9.9,75.9,62.51,Overcast
+"Chicago, IL, United States",11/10/2020,74.1,49.9,67.5,43.9,,0.45,0,0,26,206.67,48.5,9.6,94.7,71.3,"Rain, Overcast"
+"Chicago, IL, United States",11/11/2020,45.8,35.4,40.1,25.6,,0.32,0,0,24.4,256.63,38.1,9.9,50.3,65.22,"Rain, Partially cloudy"
+"Chicago, IL, United States",11/12/2020,53.5,34.8,43.9,30.7,,0,0,0,12.5,195.04,19.7,9.9,45.8,62.52,Partially cloudy
+"Chicago, IL, United States",11/13/2020,46.8,32.8,38.4,24.7,,0,0,0,16.9,274.58,29.9,9.9,50.6,62.62,Partially cloudy
+"Chicago, IL, United States",11/14/2020,48,29.1,37.8,21.5,,0.13,0,0,16.5,152.92,32.9,9.5,59.4,72.15,"Rain, Partially cloudy"
+"Chicago, IL, United States",11/15/2020,55.1,36,44.6,25.8,,0.19,0,0,31.6,246,59.1,9.5,94.5,71.42,"Rain, Overcast"
+"Chicago, IL, United States",11/16/2020,46.8,31.9,39.2,21.8,,0,0,0,16.9,256,31.5,9.9,29.6,57.48,Partially cloudy
+"Chicago, IL, United States",11/17/2020,42.2,29.6,36.5,19.2,,0,0,0,20.4,298.63,31.2,9.9,40.5,49.07,Partially cloudy
+"Chicago, IL, United States",11/18/2020,50.2,34.4,43,29.1,,0,0,0,22.9,190.71,35.3,9.9,76.3,43.76,Overcast
+"Chicago, IL, United States",11/19/2020,65.8,45.8,56.1,38.8,,0,0,0,27.3,209.08,41.3,9.9,79.2,36.76,Overcast
+"Chicago, IL, United States",11/20/2020,62.1,48,56.2,43.9,,0,0,0,20.4,267.08,31.7,9.9,51.3,46.41,Partially cloudy
+"Chicago, IL, United States",11/21/2020,45.9,38.3,42.1,31.9,,0,0,0,11,107.46,,9.9,79,67.51,Overcast
+"Chicago, IL, United States",11/22/2020,45.5,40.6,42.8,36.7,,0.02,0,0,8.7,187.25,18.3,9.7,90.1,70.98,"Rain, Overcast"
+"Chicago, IL, United States",11/23/2020,45.1,33.2,39.6,29,,0,0,0,10.8,242.71,19.7,9.9,50.5,64.83,Partially cloudy
+"Chicago, IL, United States",11/24/2020,44.9,33.3,38.7,27.1,,0.42,0,0,13.2,148.54,24.2,5.8,97.1,80.79,"Rain, Overcast"
+"Chicago, IL, United States",11/25/2020,47,44.4,45.4,39.1,,0.42,0,0,11.8,148.33,19.7,3.7,98.3,91.28,"Rain, Overcast"
+"Chicago, IL, United States",11/26/2020,46.1,40.2,43.1,36.1,,0,0,0,15.7,248.08,24.2,8.9,83.1,81.36,Overcast
+"Chicago, IL, United States",11/27/2020,45.1,35.1,40.6,29.1,,0,0,0,11.5,253.08,,8.2,67.4,77.39,Partially cloudy
+"Chicago, IL, United States",11/28/2020,49,29.2,38.9,22.7,,0,0,0,16.5,232.88,27.7,9.9,6.5,64.25,Clear
+"Chicago, IL, United States",11/29/2020,49.5,36.5,42,29.4,,0,0,0,21.1,254.67,32.9,9.9,58.6,63.19,Partially cloudy
+"Chicago, IL, United States",11/30/2020,37.8,29.1,32.7,17,,0,0,0,21.9,337.58,35.1,9.9,100,56.67,Overcast
+"Chicago, IL, United States",12/1/2020,33.6,26.1,29.5,16.7,,0,0,0,18,304.33,26.4,9.9,64,59.31,Partially cloudy
+"Chicago, IL, United States",12/2/2020,47.6,25.1,34.4,18.7,,0,0,0,11.5,271.38,18.3,9.9,33.5,52.13,Partially cloudy
+"Chicago, IL, United States",12/3/2020,45.9,30.1,36.6,21.8,,0,0,0,17.3,244.79,28.4,9.9,46.2,55.68,Partially cloudy
+"Chicago, IL, United States",12/4/2020,45.2,32.9,37.6,24.6,,0,0,0,13.2,210.96,24.7,9.9,29.6,64.55,Partially cloudy
+"Chicago, IL, United States",12/5/2020,40,30.6,34.8,24.1,,0,0,0,8.7,185.33,,9.9,76,69.84,Overcast
+"Chicago, IL, United States",12/6/2020,36.4,34.2,35.3,28.7,,0,0,0,8.2,275.08,,9.6,98.1,76.95,Overcast
+"Chicago, IL, United States",12/7/2020,37.7,34.1,35.9,27.6,,0,0,0,7.7,225.83,,9.5,100,70.67,Overcast
+"Chicago, IL, United States",12/8/2020,36.7,33.8,34.9,24,,0,0,0,15.7,254.96,28.7,8.8,100,69.95,Overcast
+"Chicago, IL, United States",12/9/2020,52.2,32.1,40.4,25.2,,0,0,0,12.2,265.21,,8,35,69.45,Partially cloudy
+"Chicago, IL, United States",12/10/2020,56.9,32.1,43.4,32.5,,0,0,0,12.3,136.88,23,9.6,35.5,66.11,Partially cloudy
+"Chicago, IL, United States",12/11/2020,44.6,37.1,41.8,32.7,,0.56,0,0,20.1,72.29,31.3,6.9,91,81.44,"Rain, Overcast"
+"Chicago, IL, United States",12/12/2020,42.2,33.9,39.1,24.5,,1.03,0,0,16.7,170.96,31.1,6.5,100,85.49,"Rain, Overcast"
+"Chicago, IL, United States",12/13/2020,36.7,28.1,31.9,21.2,,0,0,0,14.3,262,23,9.9,75.2,73.96,Overcast
+"Chicago, IL, United States",12/14/2020,31.7,24.4,28.8,16,,0,0,0,15.5,310.5,27.7,9.9,77.8,58,Overcast
+"Chicago, IL, United States",12/15/2020,33.2,20.6,26.9,11.6,,0,0,0,15.1,231.71,19.7,9.9,87.7,55.93,Overcast
+"Chicago, IL, United States",12/16/2020,33.9,29.2,31.5,18.9,,0,0,0,13.3,65.08,,9.4,99.4,68.08,Overcast
+"Chicago, IL, United States",12/17/2020,34.8,30,33.2,25.6,,0,0,0,8.5,297.21,,9.8,93.3,64.29,Overcast
+"Chicago, IL, United States",12/18/2020,36.4,24.5,30.7,18.7,,0,0,0,15.5,190.33,30.2,9.2,48.5,71.47,Partially cloudy
+"Chicago, IL, United States",12/19/2020,43.8,34.4,39.4,24.8,,0,0,0,14.7,225.42,26.4,9.5,97.1,72.18,Overcast
+"Chicago, IL, United States",12/20/2020,41.1,32,36.3,22.8,,0,0,0,14.3,239.71,23.3,9.3,67.6,68.96,Partially cloudy
+"Chicago, IL, United States",12/21/2020,45.9,33.8,38.8,26.9,,0,0,0,23.1,242.25,35.1,9.6,88.6,67.21,Overcast
+"Chicago, IL, United States",12/22/2020,40,32.1,37.4,25.1,,0,0,0,17.2,240.33,31,9.9,64.3,65.06,Partially cloudy
+"Chicago, IL, United States",12/23/2020,57,32.9,47.5,20.5,,0.11,0,0,30,197.75,48.7,9.8,87.8,57.66,"Rain, Overcast"
+"Chicago, IL, United States",12/24/2020,29.4,13,16.7,-5.4,,0,0,0,27.6,276,44.2,9.1,94.4,57.69,Overcast
+"Chicago, IL, United States",12/25/2020,21.8,8.8,15.3,-6.7,,0,0,0,18.9,282,29.7,9.9,52.1,56.23,Partially cloudy
+"Chicago, IL, United States",12/26/2020,34.6,19.2,25,5.1,,0,0,0,17,235,29.8,9.9,54,59.46,Partially cloudy
+"Chicago, IL, United States",12/27/2020,46.7,23.8,34.9,17.6,,0,0,0,18.7,171.63,35,9.8,84.2,70.78,Overcast
+"Chicago, IL, United States",12/28/2020,34.5,23.8,30.7,14.9,,0,0,0,17.1,292.04,32,9.9,57.5,62.61,Partially cloudy
+"Chicago, IL, United States",12/29/2020,31.7,18.2,25.4,13.1,,0.13,0,0,18.9,164.38,29.9,8.3,69.3,70.98,"Rain, Partially cloudy"
+"Chicago, IL, United States",12/30/2020,35.8,26.2,31.9,13.5,,0.37,1.95,1.95,21.8,238.96,31.9,7.4,99.9,77.24,"Snow, Overcast"
+"Chicago, IL, United States",12/31/2020,27.6,23.9,25.4,16.5,,0,0,1.72,8.7,239.54,17.2,9.4,86.9,69.29,Overcast
+"Chicago, IL, United States",1/1/2021,34.6,25.7,31.7,18.5,,0.29,0,0,18.3,100.88,35.6,4.9,97,83.86,"Rain, Overcast"
+"Chicago, IL, United States",1/2/2021,34.5,31.1,32.9,23.3,,0.03,1.82,1.82,10,149.92,,5.4,99.9,85.07,"Snow, Overcast"
+"Chicago, IL, United States",1/3/2021,32.8,26.6,30.9,18,,0.02,0.15,1.97,9.6,261.04,,6.5,99.8,85.02,"Snow, Overcast"
+"Chicago, IL, United States",1/4/2021,29.6,25.3,27.7,15.9,,0,0,1.97,11.6,231.21,18.3,3.8,98.2,88.23,Overcast
+"Chicago, IL, United States",1/5/2021,34.3,30.6,32.7,22.4,,0,0,1.97,9.4,275.79,,6.8,98.7,81.63,Overcast
+"Chicago, IL, United States",1/6/2021,37.3,31.2,34.7,26.6,,0,0,1.71,7.2,131.54,,6.8,92.1,76.28,Overcast
+"Chicago, IL, United States",1/7/2021,37.7,35.1,36.6,27.5,,0,0,1.31,12.6,56.38,,9.8,99.6,62.66,Overcast
+"Chicago, IL, United States",1/8/2021,35.8,30.2,33.3,21.9,,0.01,0,0.66,15.3,173.58,25.1,9.3,99.8,70.19,"Rain, Overcast"
+"Chicago, IL, United States",1/9/2021,35.5,28.2,31.8,21.9,,0,0,0.39,9.7,232.38,18.3,9.9,85.8,68.05,Overcast
+"Chicago, IL, United States",1/10/2021,29.7,23.9,27.9,13.6,,0,0,0.39,10.1,277.88,,9.6,98.1,72.41,Overcast
+"Chicago, IL, United States",1/11/2021,29.3,23.4,26.8,12.3,,0,0,0.39,15,233.46,25.5,8.6,92.9,78.42,Overcast
+"Chicago, IL, United States",1/12/2021,35.8,27.3,31.8,16.9,,0,0,0.39,13.6,222.5,24.2,9.2,31.6,76.38,Partially cloudy
+"Chicago, IL, United States",1/13/2021,39.6,31.7,36.6,24.6,,0,0,0.39,11.9,211.83,19.7,9.7,79.2,74.09,Overcast
+"Chicago, IL, United States",1/14/2021,39.6,33.7,36.5,26.9,,0.2,0,0.13,12.9,175.96,24.2,9,85.5,79.87,"Rain, Overcast"
+"Chicago, IL, United States",1/15/2021,36.3,30.4,34,24,,0.01,0.25,0.25,10.1,196.13,20.8,8.6,83.9,81.05,"Snow, Overcast"
+"Chicago, IL, United States",1/16/2021,36.5,30.4,34.3,23.3,,0.08,0.15,0.39,10.3,276.42,,7.4,99.8,82.23,"Snow, Overcast"
+"Chicago, IL, United States",1/17/2021,33,28.4,30.5,21,,0.04,0.25,0.25,8.3,261.75,,6.6,98.5,83.59,"Snow, Overcast"
+"Chicago, IL, United States",1/18/2021,28.9,22.9,27.3,14.5,,0,0.34,0.58,13.5,261.5,21.9,9.7,86.6,71.83,"Snow, Overcast"
+"Chicago, IL, United States",1/19/2021,30.6,21.3,25.9,9.5,,0.02,0.99,1.38,16.1,261.04,33,7.7,89.1,72.97,"Snow, Overcast"
+"Chicago, IL, United States",1/20/2021,33.8,16.2,25,4.2,,0,0.59,1.97,18.9,232.38,35.6,9.9,42.7,65.89,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/21/2021,38.3,27.5,34.8,15.7,,0,0,1.57,20.5,264.13,37.8,9.9,33,57.73,Partially cloudy
+"Chicago, IL, United States",1/22/2021,24.9,12.4,17.5,3.7,,0,0,0.52,16.7,303.29,25.7,9.9,14,50.72,Clear
+"Chicago, IL, United States",1/23/2021,29.8,11.6,23.3,4.9,,0,0,0,9,206,,9.9,65.7,51.81,Partially cloudy
+"Chicago, IL, United States",1/24/2021,33.6,28.9,31.2,20.5,,0.01,0,0,9.3,208.46,23,8.8,100,69.63,"Rain, Overcast"
+"Chicago, IL, United States",1/25/2021,33.6,30.4,31.8,18.8,,0.07,3.2,3.2,19.7,91.71,32.8,6.9,99.5,75.31,"Snow, Overcast"
+"Chicago, IL, United States",1/26/2021,31.8,24.8,29.7,13.1,,0.08,2.38,5.12,18.5,152.33,32.2,5.4,99.9,79.51,"Snow, Overcast"
+"Chicago, IL, United States",1/27/2021,26.8,14.5,22.7,1.6,,0,0.3,5.11,12.9,302.08,21.2,9.9,74,68.41,"Snow, Partially cloudy"
+"Chicago, IL, United States",1/28/2021,23.2,12.5,18.4,0.3,,0,0,4.98,9.4,290.5,,9.9,40,54.53,Partially cloudy
+"Chicago, IL, United States",1/29/2021,31,18.9,26.6,15.8,,0,0,4.79,11.2,134.29,20.8,9.9,69.5,55.69,Partially cloudy
+"Chicago, IL, United States",1/30/2021,33.1,29.6,31.1,17.3,,0.13,4.3,8.43,20.2,117.42,34.4,6.1,92.1,69.81,"Snow, Overcast"
+"Chicago, IL, United States",1/31/2021,32.9,29.8,31.4,18.1,,0.09,4.3,12.74,17,80.79,29.8,3.5,99.8,84.13,"Snow, Overcast"
+"Chicago, IL, United States",2/1/2021,31.9,22,28.2,12.5,,0,1.03,13.77,14.8,338.5,26.4,9.9,60.9,70.7,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/2/2021,32.1,21.6,27,12.4,,0,0,13.24,13.3,325.71,,9.9,68.9,68.12,Partially cloudy
+"Chicago, IL, United States",2/3/2021,32.3,18.3,27.3,10.8,,0,0,12.19,9.9,231.75,,9.8,44.7,67.17,Partially cloudy
+"Chicago, IL, United States",2/4/2021,36.3,16.9,30.7,-0.8,,0.25,0.24,11.28,22.8,202.54,41.7,6.1,95.5,72.47,"Snow, Overcast"
+"Chicago, IL, United States",2/5/2021,15.9,8.3,12.7,-7.7,,0,0.15,11.4,23.5,261.17,38.3,9.7,31.2,62.91,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/6/2021,11.5,1.2,8.1,-15.6,,0.02,0.12,11.01,13.1,265.38,25.3,7.9,56.6,65.57,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/7/2021,3.4,-3.5,0.5,-21.2,,0,0.07,11.01,11.2,288.79,21.6,9.9,61.1,55.26,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/8/2021,13.5,2.4,9.2,-5.4,,0.04,2.46,13.27,9.2,285.5,,5.8,92.9,68.27,"Snow, Overcast"
+"Chicago, IL, United States",2/9/2021,14.8,4.3,9.4,-10.9,,0,1.48,14.75,10.4,329.08,,9.7,46.8,51.66,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/10/2021,15.6,7.5,12.3,-6.5,,0.01,0,13.83,13.2,338.21,,8.5,91,57.76,"Rain, Overcast"
+"Chicago, IL, United States",2/11/2021,21.9,6.5,15.7,-8.8,,0,0.37,12.46,12.8,161.88,23,8.1,79.9,65.72,"Snow, Overcast"
+"Chicago, IL, United States",2/12/2021,16.3,7.6,13.1,-8.6,,0.01,0.47,12.84,13.1,315.42,,8.3,94.7,65.21,"Snow, Overcast"
+"Chicago, IL, United States",2/13/2021,10.2,-2.4,5.9,-21.3,,0.02,0.88,13.72,13.5,321.13,21.9,5.4,67.9,68.54,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/14/2021,3,-2.8,0.8,-20.4,,0.01,0.81,14.53,15.5,328.21,21.9,7.3,85.6,56.91,"Snow, Overcast"
+"Chicago, IL, United States",2/15/2021,12.5,1.1,7.5,-18,,0.09,7.61,22.14,17.4,301.04,33.3,2.1,75.6,73.58,"Snow, Overcast"
+"Chicago, IL, United States",2/16/2021,19.5,8.9,14.5,-7.6,,0.01,4.44,26.58,14.3,314.58,27.7,8.2,85.4,66.69,"Snow, Overcast"
+"Chicago, IL, United States",2/17/2021,21.9,10,16.7,2.4,,0,0,24.21,8.4,181.08,,9.5,84.6,62.97,Overcast
+"Chicago, IL, United States",2/18/2021,24.4,15.6,20.2,6.2,,0.02,0,21.98,6.7,134.88,,6.5,79.5,70.58,"Rain, Overcast"
+"Chicago, IL, United States",2/19/2021,19.6,11.3,15.5,0.3,,0,0,20.67,12.8,264.58,20.8,8.3,39.9,67.63,Partially cloudy
+"Chicago, IL, United States",2/20/2021,29,7.2,18.9,1.2,,0,0,19.22,8.3,209.21,,8.1,13.3,66.22,Clear
+"Chicago, IL, United States",2/21/2021,35.7,19,30.1,9.8,,0.26,0,17.77,16.5,169.46,35.3,7.4,83.3,69.93,"Rain, Overcast"
+"Chicago, IL, United States",2/22/2021,39,29.1,34.2,16.7,,0,0,17.05,18.8,243.17,33.9,8.5,89.7,72.81,Overcast
+"Chicago, IL, United States",2/23/2021,43.9,37.5,41.1,30.3,,0,0,15.08,12.9,231.21,32.2,9.9,45.6,64.89,Partially cloudy
+"Chicago, IL, United States",2/24/2021,43,30.1,39,26.5,,0,0,11.93,16.6,287.08,30,9.9,43.8,67.85,Partially cloudy
+"Chicago, IL, United States",2/25/2021,38.1,27,32.7,21.2,,0,0,7.92,11.7,261.71,24.2,9.9,34.4,64.78,Partially cloudy
+"Chicago, IL, United States",2/26/2021,40.7,27.4,35.8,21.3,,0.03,1.74,7.04,12.9,174.17,29.8,9.4,51.6,59.25,"Snow, Partially cloudy"
+"Chicago, IL, United States",2/27/2021,48.2,35,41.7,28.6,,0.01,0,6.3,9.2,183.88,,7.8,54.5,74.05,"Rain, Partially cloudy"
+"Chicago, IL, United States",2/28/2021,45.4,32.5,40.8,24.6,,0.06,0,4.86,17.7,236.13,36.7,7.5,79.7,81.18,"Rain, Overcast"
+"Chicago, IL, United States",3/1/2021,33.2,23.4,29.3,19.4,,0,0,3.54,12.3,310.5,23.4,9.9,25.4,54.31,Partially cloudy
+"Chicago, IL, United States",3/2/2021,41.3,23,34.6,16.8,,0,0,2.62,16.6,220.5,32.2,9.9,3.8,57.82,Clear
+"Chicago, IL, United States",3/3/2021,53.6,35.2,43.5,28,,0,0,2.1,10,157.67,25.3,9.8,5.9,59.34,Clear
+"Chicago, IL, United States",3/4/2021,35.7,27.7,33,20.8,,0,0,0.92,17.4,49,34.4,9.9,38.7,66.07,Partially cloudy
+"Chicago, IL, United States",3/5/2021,45.7,27.2,36.3,21.6,,0,0,0.13,11.4,217.21,20.8,9.9,25,53.2,Clear
+"Chicago, IL, United States",3/6/2021,42.3,29.1,35.9,30.1,,0,0,0,7.8,133.25,,9.9,11.1,60.03,Clear
+"Chicago, IL, United States",3/7/2021,51.3,26.5,39.8,24.1,,0,0,0,12.3,142.63,21.9,9.9,54.7,54.24,Partially cloudy
+"Chicago, IL, United States",3/8/2021,64,43.5,53,37.3,,0,0,0,20,237.83,29.7,9.9,51.2,48.82,Partially cloudy
+"Chicago, IL, United States",3/9/2021,68.1,42.8,55.5,40.9,,0,0,0,20.1,176.25,35,9.9,69.8,47.54,Partially cloudy
+"Chicago, IL, United States",3/10/2021,68.4,56.4,61.3,,,0,0,0,24.5,198.92,43.2,9.9,93.8,55.21,Overcast
+"Chicago, IL, United States",3/11/2021,64.2,44.1,52.3,39.3,,0.05,0,0,23.8,257.21,46.3,9.9,45.6,58.26,"Rain, Partially cloudy"
+"Chicago, IL, United States",3/12/2021,52.8,37,43.8,32,,0,0,0,12.2,183.38,21.9,9.9,63.5,52.37,Partially cloudy
+"Chicago, IL, United States",3/13/2021,58.9,32.5,45.8,30.8,,0,0,0,9.8,184.17,,9.9,54.2,44.52,Partially cloudy
+"Chicago, IL, United States",3/14/2021,46.2,37.3,42,26.6,,0,0,0,22.8,97.58,33.5,9.9,77.1,52.13,Overcast
+"Chicago, IL, United States",3/15/2021,39.5,29.7,34.1,17.7,,0.09,1.05,1.05,22.7,103,35.4,6.5,92.1,64.87,"Snow, Overcast"
+"Chicago, IL, United States",3/16/2021,37.9,33.3,35.5,27.3,,0,0.52,1.57,10.6,49.88,,7.1,100,80.58,"Snow, Overcast"
+"Chicago, IL, United States",3/17/2021,40,33.8,36.8,25.5,,0.4,0,0.46,20.8,55.17,31.3,5.8,99.9,81.31,"Rain, Overcast"
+"Chicago, IL, United States",3/18/2021,42.2,37.8,39,26.8,,0.14,0,0,30.6,29.96,45.6,8.8,87.8,74.51,"Rain, Overcast"
+"Chicago, IL, United States",3/19/2021,45.4,34,38.8,24.6,,0,0,0,21,60.5,34.8,9.9,12.6,46.07,Clear
+"Chicago, IL, United States",3/20/2021,57.8,30.9,44.1,28.2,,0,0,0,10,133.13,20.8,9.9,0,48.71,Clear
+"Chicago, IL, United States",3/21/2021,64.9,37.9,52.6,34.1,,0,0,0,17.8,183.04,29.4,9.9,37.2,37.21,Partially cloudy
+"Chicago, IL, United States",3/22/2021,67.9,47.2,57,43.3,,0,0,0,17.7,183,32.2,9.9,72.9,37.95,Partially cloudy
+"Chicago, IL, United States",3/23/2021,65.1,50.9,57,,,0.17,0,0,16.1,134.29,32.8,9.6,95.2,60.99,"Rain, Overcast"
+"Chicago, IL, United States",3/24/2021,58.5,48.3,54.9,43.3,,0.02,0,0,22.6,212.63,38.2,9.8,93.9,71.35,"Rain, Overcast"
+"Chicago, IL, United States",3/25/2021,49.4,38.7,45.1,28.1,,0.09,0,0,23,103.63,34.6,9.4,92.2,73.87,"Rain, Overcast"
+"Chicago, IL, United States",3/26/2021,41.7,35.8,39.1,27,,0.06,0,0,18.9,186.04,32.9,9.8,90.5,78.97,"Rain, Overcast"
+"Chicago, IL, United States",3/27/2021,63.9,37.3,51.6,37.6,,0,0,0,15.4,150.79,29.8,8.8,92.1,73.78,Overcast
+"Chicago, IL, United States",3/28/2021,51.5,36.4,43.8,30.1,,0,0,0,25.6,295.88,38,9.9,65.2,51.32,Partially cloudy
+"Chicago, IL, United States",3/29/2021,62.2,31.6,47.7,26.3,,0,0,0,24.2,205.29,41.4,9.9,25.7,47.25,Partially cloudy
+"Chicago, IL, United States",3/30/2021,67.7,47.6,56.5,41.6,,0,0,0,22.7,234.46,37.2,9.9,65.4,39.51,Partially cloudy
+"Chicago, IL, United States",3/31/2021,44.8,34.8,39.1,25.9,,0,0,0,18.6,297.42,31.1,9.9,53.1,37.87,Partially cloudy
+"Chicago, IL, United States",4/1/2021,38.1,25.4,32.6,13,,0,0,0,18,138.29,27.9,9.9,28.6,44.26,Partially cloudy
+"Chicago, IL, United States",4/2/2021,50,26.6,39.7,21.4,,0,0,0,14.5,170.63,25.3,9.9,13.5,39.2,Clear
+"Chicago, IL, United States",4/3/2021,70.8,40.7,55.1,32.8,,0,0,0,21.4,232.54,31.8,9.9,21.1,35.95,Clear
+"Chicago, IL, United States",4/4/2021,75.2,45.3,61.8,45.1,,0,0,0,11.9,150.96,22.5,9.8,33.4,42.57,Partially cloudy
+"Chicago, IL, United States",4/5/2021,76.5,60.1,67.6,,,0,0,0,14.6,208.63,32.2,9.9,70.6,47.45,Partially cloudy
+"Chicago, IL, United States",4/6/2021,81.3,58.5,70.8,,80.2,0,0,0,18.1,210.7,28.8,9.9,69.8,45.68,Partially cloudy
