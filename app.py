@@ -1,31 +1,3 @@
-# import sqlalchemy
-# from sqlalchemy.ext.automap import automap_base
-#from sqlalchemy.orm import Session
-#from sqlalchemy import create_engine, func
-
-from flask import Flask, jsonify, Response
-import pandas as pd
-#from flask_cors import CORS
-
-# Flask set up
-app = Flask(__name__)
-#CORS(app)
-
-# Routes
-@app.route("/")
-def index():
-
-	return jsonify({
-		"key1": "value1",
-		"key2": 2
-	})
-
-@app.route("/crimes")
-def crimes():
-
-    return jsonify({
-		"key1": "crime1",
-		"key2": 3
-	})
-#if __name__ == '__main__':
-#    app.run(debug=True)
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd1996304f34ff8a172acfd30da0d24eaf0df0e3aed3d0f18f62d04fc9f85ba
+size 533
