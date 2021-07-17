@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:275d7a6149ce0bd8c9116318b68f2546490313b6713c1947e106ed9918854f93
-size 163
+Used crime data in the city of Chicago versus weather data.
+An user interface was created that takes in temperature/wind/precipitation data and estimates crime.
+A best fit model was selected to predict data with machine learning.
